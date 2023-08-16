@@ -1,0 +1,101 @@
+{"prompt":"unserviceable dpr 1 ->","completion":" Breakdown"}
+{"prompt":"over heating ->","completion":" Overheating"}
+{"prompt":"not working ->","completion":" Breakdown"}
+{"prompt":"not energising ->","completion":" Low output"}
+{"prompt":"us ->","completion":" Breakdown"}
+{"prompt":"flow issue ->","completion":" Plugged \/ choked"}
+{"prompt":"needs repacked ->","completion":" Minor in-service problems"}
+{"prompt":"passing excessively ->","completion":" Leaking"}
+{"prompt":"blocking ->","completion":" Plugged \/ choked"}
+{"prompt":"shredded ->","completion":" Structural deficiency"}
+{"prompt":"noise ->","completion":" Noise"}
+{"prompt":"blown out ->","completion":" Minor in-service problems"}
+{"prompt":"fall off ->","completion":" Minor in-service problems"}
+{"prompt":"will not start in ->","completion":" Failure to start on demand"}
+{"prompt":"wont turn ->","completion":" Failure to start on demand"}
+{"prompt":"underperforming ->","completion":" Low output"}
+{"prompt":"corroded close out ->","completion":" Structural deficiency"}
+{"prompt":"over flowed ->","completion":" Leaking"}
+{"prompt":"snapped ->","completion":" Structural deficiency"}
+{"prompt":"faul ->","completion":" Electrical"}
+{"prompt":"failing to start ->","completion":" Failure to start on demand"}
+{"prompt":"needs adjusting ->","completion":" Minor in-service problems"}
+{"prompt":"hard to close ->","completion":" Fail to close"}
+{"prompt":"viberating ->","completion":" Vibration"}
+{"prompt":"wont work ->","completion":" Failure to start on demand"}
+{"prompt":"bent ->","completion":" Minor in-service problems"}
+{"prompt":"doesnt operate ->","completion":" Breakdown"}
+{"prompt":"blew off ->","completion":" Minor in-service problems"}
+{"prompt":"no fill ->","completion":" Minor in-service problems"}
+{"prompt":"false reading ->","completion":" Abnormal instrument reading"}
+{"prompt":"not wo ->","completion":" Breakdown"}
+{"prompt":"require tightening ->","completion":" Minor in-service problems"}
+{"prompt":"are not operational ->","completion":" Breakdown"}
+{"prompt":"no static ->","completion":" Abnormal instrument reading"}
+{"prompt":"siezed shut ->","completion":" Breakdown"}
+{"prompt":"running too slow ->","completion":" Low output"}
+{"prompt":"rusty ->","completion":" Structural deficiency"}
+{"prompt":"static ->","completion":" Electrical"}
+{"prompt":"burst again ->","completion":" Breakdown"}
+{"prompt":"losing ->","completion":" Minor in-service problems"}
+{"prompt":"emulsified ->","completion":" Contamination"}
+{"prompt":"needs patched up ->","completion":" Minor in-service problems"}
+{"prompt":"perished ->","completion":" Breakdown"}
+{"prompt":"needs replacement ->","completion":" Breakdown"}
+{"prompt":"stopped pumping ->","completion":" Spurious stop"}
+{"prompt":"vibration ->","completion":" Vibration"}
+{"prompt":"blockedseized ->","completion":" Plugged \/ choked"}
+{"prompt":"broken near ->","completion":" Breakdown"}
+{"prompt":"will not start ->","completion":" Failure to start on demand"}
+{"prompt":"not working on ->","completion":" Breakdown"}
+{"prompt":"slow ->","completion":" Low output"}
+{"prompt":"keeps on tripping ->","completion":" Electrical"}
+{"prompt":"leakhole ->","completion":" Leaking"}
+{"prompt":"come free of ->","completion":" Minor in-service problems"}
+{"prompt":"no oil movement ->","completion":" Plugged \/ choked"}
+{"prompt":"keeps tripping at start ->","completion":" Electrical"}
+{"prompt":"seizes at time ->","completion":" Breakdown"}
+{"prompt":"sparaying ->","completion":" Leaking"}
+{"prompt":"will not pump ->","completion":" Breakdown"}
+{"prompt":"continually tripping ->","completion":" Electrical"}
+{"prompt":"running hot ->","completion":" Overheating"}
+{"prompt":"poor ->","completion":" Fail to function"}
+{"prompt":"not starting ->","completion":" Failure to start on demand"}
+{"prompt":"not puming ->","completion":" Plugged \/ choked"}
+{"prompt":"requires clean ->","completion":" Minor in-service problems"}
+{"prompt":"worn out ->","completion":" Structural deficiency"}
+{"prompt":"earth fault ->","completion":" Electrical"}
+{"prompt":"wont open ->","completion":" Fail to function"}
+{"prompt":"very corroded ->","completion":" Structural deficiency"}
+{"prompt":"will not start after flushing ->","completion":" Failure to start on demand"}
+{"prompt":"slurry spraying out ->","completion":" Leaking"}
+{"prompt":"requires a descale ->","completion":" Minor in-service problems"}
+{"prompt":"crack in transition ->","completion":" Structural deficiency"}
+{"prompt":"stuck ->","completion":" Fail to function"}
+{"prompt":"not secured ->","completion":" Minor in-service problems"}
+{"prompt":"tripping cause ->","completion":" Electrical"}
+{"prompt":"tripping on ->","completion":" Electrical"}
+{"prompt":"broken electrical ->","completion":" Breakdown"}
+{"prompt":"needs freeing up ->","completion":" Plugged \/ choked"}
+{"prompt":"high earth resistance ->","completion":" Abnormal instrument reading"}
+{"prompt":"out of position ->","completion":" Minor in-service problems"}
+{"prompt":"running when empty ->","completion":" Other"}
+{"prompt":"dislodged ->","completion":" Minor in-service problems"}
+{"prompt":"needs rebuild ->","completion":" Breakdown"}
+{"prompt":"needs re build ->","completion":" Breakdown"}
+{"prompt":"didnt trip ->","completion":" Electrical"}
+{"prompt":"unserviceable leak sulphur ->","completion":" Breakdown"}
+{"prompt":"stretched ->","completion":" Minor in-service problems"}
+{"prompt":"does dont pump at ->","completion":" Plugged \/ choked"}
+{"prompt":"stuck in open position ->","completion":" Fail to function"}
+{"prompt":"not able to pump ->","completion":" Plugged \/ choked"}
+{"prompt":"failure ->","completion":" Breakdown"}
+{"prompt":"vibrating ->","completion":" Vibration"}
+{"prompt":"leakingneed ->","completion":" Leaking"}
+{"prompt":"fault tripping ->","completion":" Electrical"}
+{"prompt":"will not turn ->","completion":" Fail to function"}
+{"prompt":"stopping ->","completion":" Spurious stop"}
+{"prompt":"hanging ->","completion":" Other"}
+{"prompt":"need repacking ->","completion":" Minor in-service problems"}
+{"prompt":"requires modifying ->","completion":" Minor in-service problems"}
+{"prompt":"stopping randomly ->","completion":" Spurious stop"}

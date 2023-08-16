@@ -1,0 +1,8 @@
+sport2.jsonl
+sport2_prepared_train.jsonl
+sport2_prepared_valid.jsonl
+sport2_prepared.jsonl
+*.pyc
+*/*.pyc
+.git
+.env

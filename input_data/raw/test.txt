@@ -1,0 +1,62 @@
+ejected,Minor in-service problems
+sticking shu,Fail to function
+not turning,Plugged / choked
+has failed,Breakdown
+needs fitting,Minor in-service problems
+runs for a while and trip,Electrical
+very stiff to operate,Fail to function
+requires rebuild,Minor in-service problems
+has no equipment earth,Electrical
+require tighteninginspecti,Minor in-service problems
+does not work,Breakdown
+runs continuously,Failure to stop on demand
+severe corrosion,Structural deficiency
+contamination,Contamination
+doesnt trip,Electrical
+ripped,Structural deficiency
+unserviceable not in,Breakdown
+cant be adjusted,Fail to function
+worn,Structural deficiency
+misalignment,Minor in-service problems
+switched o,Spurious stop
+to be torqued,Minor in-service problems
+sped up,High output
+unable to pump,Low output
+spillage,Leaking
+spraying out slurry,Leaking
+jammed open,Plugged / choked
+no pump,Plugged / choked
+not truning,Plugged / choked
+unable to tighten,Minor in-service problems
+burnt,Overheating
+hot joint,Overheating
+burst,Breakdown
+pumping fault,Low output
+not controlling,Minor in-service problems
+surging cutting in and out,Electrical
+failed electrical,Electrical
+loose tighten,Minor in-service problems
+high earth reading,Abnormal instrument reading
+cavitating,Erratic output
+requires repack,Minor in-service problems
+needs support,Minor in-service problems
+needs maintenance,Minor in-service problems
+not spinning,Minor in-service problems
+dont activate,Failure to start on demand
+unserviceable b feluwa,Breakdown
+no power,Electrical
+requires cleaning,Minor in-service problems
+doesnt work,Breakdown
+vibrationlubealignment,Vibration
+blockage,Plugged / choked
+ongoing issue,Other
+poorly supported,Minor in-service problems
+rocking around,Vibration
+siezeddescale,Breakdown
+dropped,Minor in-service problems
+spraying,Leaking
+not covered,Minor in-service problems
+hot jointfurn,Overheating
+running dry,Other
+smoking up,Overheating
+jammed,Plugged / choked

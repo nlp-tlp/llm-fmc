@@ -1,0 +1,68 @@
+inefficient,Plugged / choked
+hole,Structural deficiency
+stopped,Spurious stop
+failing to open fully,Fail to open
+stopped communicatiing,Spurious stop
+gone,Minor in-service problems
+has high earth resistance,Electrical
+unserviceable su,Breakdown
+leak excessivly,Leaking
+unable to get running,Failure to start on demand
+flickering anytime,Erratic output
+needs descale,Minor in-service problems
+spilling,Leaking
+not square,Minor in-service problems
+rocking voilently,Vibration
+burnt off,Overheating
+twisted,Fail to function
+keeps tripping on start up,Electrical
+unsecure,Minor in-service problems
+not pumping away,Plugged / choked
+siezedjammed,Breakdown
+no output,Plugged / choked
+faulted,Electrical
+burn,Overheating
+smoking hot,Overheating
+issue,Other
+erroded,Structural deficiency
+leak out,Leaking
+detaching,Minor in-service problems
+passing slurry,Leaking
+leak u,Leaking
+low pressure,Plugged / choked
+not reading,Abnormal instrument reading
+wornblocked,Structural deficiency
+require replacing,Breakdown
+not starting in sequence,Failure to start on demand
+requires descale,Minor in-service problems
+feedback,Electrical
+misaligned,Minor in-service problems
+unable to increase,Low output
+defect,Structural deficiency
+constantly tripping,Electrical
+excesively worn,Structural deficiency
+need change,Breakdown
+not readingfalse,Abnormal instrument reading
+snaped off,Structural deficiency
+requires de scale,Minor in-service problems
+not holding,Leaking
+badly worn,Structural deficiency
+deformed,Structural deficiency
+tripping instantly,Electrical
+not maintaining pressure,Plugged / choked
+needs tuning,Minor in-service problems
+moving a lot,Vibration
+stops during operation,Spurious stop
+missing hold down,Minor in-service problems
+will not fully close,Fail to function
+will not reset,Failure to start on demand
+flooding,Leaking
+need marking up,Minor in-service problems
+not in sequence,Electrical
+stiff to turn,Fail to function
+contanimated,Contamination
+wont close,Fail to close
+gear not spining,Failure to rotate
+eng will not shut down,Failure to stop on demand
+output high,High output
+air cond. making heaps of noise.,Noise

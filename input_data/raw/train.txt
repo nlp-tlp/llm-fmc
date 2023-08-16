@@ -1,0 +1,502 @@
+falure,Breakdown
+unserviceable dpr 1,Breakdown
+bogged,Plugged / choked
+spaying slurry,Leaking
+fell of,Minor in-service problems
+no pressure output,Plugged / choked
+damageblockage,Structural deficiency
+squeeling,Noise
+requires repacking,Minor in-service problems
+no starting issue,Failure to start on demand
+shaking,Vibration
+blow,Minor in-service problems
+need a descale,Minor in-service problems
+over heating,Overheating
+vibrationcheck,Vibration
+vibration issue,Vibration
+not open,Minor in-service problems
+sticking,Fail to function
+seized shut,Breakdown
+blocked,Plugged / choked
+not working,Breakdown
+not energising,Low output
+power issue,Electrical
+needs repairing,Structural deficiency
+not performing,Breakdown
+wont run and,Failure to start on demand
+boil out,Overheating
+not supplying,Plugged / choked
+spilled,Leaking
+stuck in,Fail to function
+leak exponentially,Leaking
+not keeping up,Low output
+pumping issue,Low output
+leak slurry,Leaking
+us,Breakdown
+requires attention,Minor in-service problems
+does not stop,Failure to stop on demand
+noisy sce,Noise
+twisting,Fail to function
+needs to be extended,Minor in-service problems
+lost its packing,Leaking
+rusted through,Structural deficiency
+needs to be held down,Minor in-service problems
+flow issue,Plugged / choked
+degraded,Structural deficiency
+wont pump floc,Breakdown
+leakspray,Leaking
+wont run in,Failure to start on demand
+needs repacked,Minor in-service problems
+passing excessively,Leaking
+blocking,Plugged / choked
+not engaging,Failure to start on demand
+shredded,Structural deficiency
+noise,Noise
+blown out,Minor in-service problems
+needs replacing,Breakdown
+not running,Breakdown
+leak when shut,Leaking
+fall off,Minor in-service problems
+not being pumped away,Plugged / choked
+scaled up,Minor in-service problems
+fallen off,Minor in-service problems
+broke away,Breakdown
+cannot run in,Failure to start on demand
+not pumping enough,Plugged / choked
+not stopping,Failure to stop on demand
+unable to shu,Failure to stop on demand
+failed internaly,Breakdown
+not there,Minor in-service problems
+inefficiant,Plugged / choked
+no reading,Abnormal instrument reading
+will not start in,Failure to start on demand
+been running hot,Overheating
+fallen out,Minor in-service problems
+leak on,Leaking
+to be removed,Breakdown
+unsupported,Minor in-service problems
+giving false reading,Abnormal instrument reading
+leak in two place,Leaking
+not reaching flow,Plugged / choked
+wont turn,Failure to start on demand
+not able to open,Minor in-service problems
+need straighting,Minor in-service problems
+hot liquid,Overheating
+fell apart,Minor in-service problems
+fail again,Breakdown
+needs to be replaced,Breakdown
+underperforming,Low output
+corroded close out,Structural deficiency
+not kicking in,Failure to start on demand
+needs to be descaled,Minor in-service problems
+over flowed,Leaking
+non operational,Breakdown
+running fault,Other
+unable to run,Failure to start on demand
+come adrift,Minor in-service problems
+stiff,Fail to function
+not high enough,Low output
+broken off,Breakdown
+snapped,Structural deficiency
+shorted out,Electrical
+running when sump empty,Other
+faul,Electrical
+has a hole on,Structural deficiency
+will not trip,Electrical
+failing to start,Failure to start on demand
+needs adjusting,Minor in-service problems
+sheared,Structural deficiency
+failed,Breakdown
+no guarding,Minor in-service problems
+unresponsive,Failure to start on demand
+no sightglass,Minor in-service problems
+not connected,Minor in-service problems
+unserviceable and line,Breakdown
+keeps triping,Electrical
+coming out,Minor in-service problems
+requires handle,Minor in-service problems
+low flow,Plugged / choked
+split,Structural deficiency
+fail to start,Failure to start on demand
+wont reset,Failure to start on demand
+hard to close,Fail to close
+hole in suction,Structural deficiency
+worn through,Structural deficiency
+passingleaking,Leaking
+not opening,Minor in-service problems
+jammedseized,Plugged / choked
+damage,Structural deficiency
+passing on,Leaking
+weak,Other
+viberating,Vibration
+static earth resistance,Electrical
+needs to be rebuilt,Minor in-service problems
+needs supporting,Minor in-service problems
+wont work,Failure to start on demand
+wornbelt,Structural deficiency
+not attached corroded,Minor in-service problems
+keeps tripping,Electrical
+weeping,Leaking
+badly rusted,Structural deficiency
+bad vibration,Vibration
+fire,Overheating
+faulting,Electrical
+contaminating condensate,Contamination
+too fast,High output
+low viscosity,Contamination
+not closing,Minor in-service problems
+require adjusting,Minor in-service problems
+sound,Noise
+bent,Minor in-service problems
+corrosion on,Structural deficiency
+doesnt operate,Breakdown
+seized open,Breakdown
+excessive stopstart,Erratic output
+needs replaceing,Breakdown
+hot thermography,Overheating
+erratic,Erratic output
+false high level,Abnormal instrument reading
+will not shut,Fail to function
+lagging,Low output
+blew off,Minor in-service problems
+no fill,Minor in-service problems
+needs packing,Minor in-service problems
+wont pump,Breakdown
+badly corrod,Structural deficiency
+surging,Electrical
+false reading,Abnormal instrument reading
+not pumping enough to get,Plugged / choked
+not draining,Plugged / choked
+not wo,Breakdown
+not charging,Electrical
+locked,Failure to rotate
+not moving,Plugged / choked
+milky,Contamination
+require tightening,Minor in-service problems
+siezed,Breakdown
+no pressure,Plugged / choked
+disconnected,Breakdown
+coming adrift,Minor in-service problems
+ruptured,Structural deficiency
+not pumpung,Plugged / choked
+leakhose,Leaking
+cracked,Structural deficiency
+broken loose,Breakdown
+failing,Breakdown
+looseworn,Minor in-service problems
+alarming eratically,Abnormal instrument reading
+are not operational,Breakdown
+no static,Abnormal instrument reading
+siezed shut,Breakdown
+running too slow,Low output
+rusty,Structural deficiency
+needs modifying,Minor in-service problems
+died,Breakdown
+smoking,Overheating
+pulling very high,High output
+blowin,Minor in-service problems
+not stopping at,Failure to stop on demand
+not operational,Breakdown
+seizedbogged,Breakdown
+usversicol,Breakdown
+static,Electrical
+does not trip,Electrical
+needs alignment,Minor in-service problems
+contaimination,Contamination
+burst again,Breakdown
+smoke,Overheating
+losing,Minor in-service problems
+no belt,Minor in-service problems
+needs tightened,Minor in-service problems
+not turning restriction,Plugged / choked
+no signal,Abnormal instrument reading
+emulsified,Contamination
+alarming vibration,Vibration
+needs patched up,Minor in-service problems
+blew off top of,Minor in-service problems
+badly corroded in,Structural deficiency
+perished,Breakdown
+need calibration,Abnormal instrument reading
+jammed in place,Plugged / choked
+collapsed,Breakdown
+requires slotting,Minor in-service problems
+fault finding,Electrical
+reading inaccurate,Abnormal instrument reading
+sucked in,Other
+come loose,Minor in-service problems
+no phase,Electrical
+bore tripping,Electrical
+spill to ground,Electrical
+reading high,Abnormal instrument reading
+rusted away,Structural deficiency
+needs a repack,Minor in-service problems
+fried,Breakdown
+no speed control,Abnormal instrument reading
+seized breakdown,Breakdown
+needs replacement,Breakdown
+not workin,Breakdown
+require investigating,Minor in-service problems
+passing when closed,Leaking
+not operating,Breakdown
+crack,Structural deficiency
+stopped pumping,Spurious stop
+not pumping issue,Plugged / choked
+vibration,Vibration
+no flow,Plugged / choked
+restricted,Low output
+high vibration,Vibration
+unserviceable no contol,Breakdown
+slippery,Minor in-service problems
+no seal,Minor in-service problems
+leak underflow,Leaking
+blockedseized,Plugged / choked
+broken near,Breakdown
+faulty earth,Electrical
+not maintaining,Plugged / choked
+wont rotate,Failure to start on demand
+not efficient,Low output
+will not start,Failure to start on demand
+contamination trip,Contamination
+not working on,Breakdown
+blown out at,Minor in-service problems
+trips out,Electrical
+struggling,Low output
+slow,Low output
+keeps on tripping,Electrical
+reading stuck,Abnormal instrument reading
+not pumping,Plugged / choked
+torn,Structural deficiency
+cutting in and out,Erratic output
+leakhole,Leaking
+come free of,Minor in-service problems
+contaminated,Contamination
+not pumpingeast,Plugged / choked
+no oil movement,Plugged / choked
+cold,Other
+problem,Other
+keeps tripping at start,Electrical
+severely corroded,Structural deficiency
+needs repack,Minor in-service problems
+not secure,Minor in-service problems
+missing on,Minor in-service problems
+require changing,Minor in-service problems
+have smoked up,Overheating
+rusted of,Structural deficiency
+relieving too early,Leaking
+missing blank,Minor in-service problems
+will not restart,Failure to start on demand
+needs repacking,Minor in-service problems
+high amp,Abnormal instrument reading
+weaping,Leaking
+burnt out,Overheating
+blowen,Minor in-service problems
+adrift,Minor in-service problems
+seizes at time,Breakdown
+may burst,Structural deficiency
+sparaying,Leaking
+tripping straight away,Electrical
+has a split in,Structural deficiency
+corrodedstripped,Structural deficiency
+buggered,Breakdown
+seized,Breakdown
+pot in backward,Minor in-service problems
+fault,Electrical
+will not pump,Breakdown
+tripping in,Electrical
+requires replacing,Minor in-service problems
+continually tripping,Electrical
+no run indication,Abnormal instrument reading
+running hot,Overheating
+poor,Fail to function
+keeps tripping out,Electrical
+playing up,Erratic output
+not providing pressure,Plugged / choked
+not starting,Failure to start on demand
+sheared off,Structural deficiency
+not puming,Plugged / choked
+corroding,Structural deficiency
+spraying out of,Leaking
+badly corroded,Structural deficiency
+requires clean,Minor in-service problems
+holedinspect,Structural deficiency
+no earth,Electrical
+missingloose,Minor in-service problems
+siezing on,Breakdown
+keeps kicking in,Failure to stop on demand
+not efficiant,Low output
+sheered,Structural deficiency
+incorrect orientation,Minor in-service problems
+worn out,Structural deficiency
+signal error,Abnormal instrument reading
+earth fault,Electrical
+unserviceable pump,Breakdown
+not attached,Minor in-service problems
+leaked out,Leaking
+shorting out,Electrical
+tripping on overload,Electrical
+broken,Breakdown
+heavy corrosion,Structural deficiency
+unable to reach,Low output
+wont open,Fail to function
+lealing,Leaking
+needs another row,Minor in-service problems
+down to earth,Electrical
+very corroded,Structural deficiency
+will not start after flushing,Failure to start on demand
+slurry spraying out,Leaking
+badly corr,Structural deficiency
+covered,Minor in-service problems
+requires a descale,Minor in-service problems
+starting to crack,Structural deficiency
+crack in transition,Structural deficiency
+constantly losing,Leaking
+continually trips out,Electrical
+dirty,Minor in-service problems
+worn again,Structural deficiency
+broke,Breakdown
+needs to be flushed,Minor in-service problems
+rusted off,Structural deficiency
+stopped working,Spurious stop
+stuck,Fail to function
+appears loose,Minor in-service problems
+very high vibration,Vibration
+cannot start,Failure to start on demand
+not secured,Minor in-service problems
+holed,Structural deficiency
+jammed closed,Plugged / choked
+tripping cause,Electrical
+coroded,Structural deficiency
+needs to be dismantled,Minor in-service problems
+missing off,Minor in-service problems
+knocking,Noise
+slipping,Minor in-service problems
+tripping on,Electrical
+caught in suction,Minor in-service problems
+defect notice,Structural deficiency
+will not stay running,Spurious stop
+come off,Minor in-service problems
+tripped out,Electrical
+not accurate,Abnormal instrument reading
+loose,Minor in-service problems
+has crack,Structural deficiency
+congested,Plugged / choked
+shows offline while running in field,Abnormal instrument reading
+showing signs of failure,Other
+passing,Leaking
+broken electrical,Breakdown
+spraying out,Leaking
+needs freeing up,Plugged / choked
+wont start,Failure to start on demand
+high earth resistance,Abnormal instrument reading
+pumping at high out put,High output
+pinholed,Minor in-service problems
+poor flow,Low output
+slipped off,Minor in-service problems
+faulty,Electrical
+needs scope,Minor in-service problems
+colapsed,Breakdown
+will not run,Breakdown
+exposed,Minor in-service problems
+losing signal,Electrical
+misaligning,Minor in-service problems
+out of position,Minor in-service problems
+need replacing,Breakdown
+not running in,Fail to function
+has split,Structural deficiency
+snapped off,Structural deficiency
+noisyvibrating,Noise
+filled,Leaking
+fail,Breakdown
+fails to open in sequence,Fail to open
+looseness,Minor in-service problems
+too high,High output
+blowing,Minor in-service problems
+running when empty,Other
+hot,Overheating
+fluctuates at high rate,Erratic output
+not reading right,Abnormal instrument reading
+sitting on hot,Overheating
+not able to maintain level,Plugged / choked
+dislodged,Minor in-service problems
+turning in reverse,Fail to function
+no out put,Plugged / choked
+leaky,Leaking
+tripping out on run up,Electrical
+need replaceing,Breakdown
+not pump,Plugged / choked
+will not run in,Breakdown
+needs rebuild,Breakdown
+leakingreplace,Leaking
+stopped abruptly,Spurious stop
+brittle,Structural deficiency
+needs securing,Minor in-service problems
+dented,Structural deficiency
+vibrationlaser,Vibration
+inconsistant flow,Plugged / choked
+needs re build,Breakdown
+unserviceable please replace,Breakdown
+not connectedblanked,Minor in-service problems
+earthing,Electrical
+no indication,Minor in-service problems
+stripped,Structural deficiency
+needs inspecting,Minor in-service problems
+snaped,Structural deficiency
+didnt trip,Electrical
+blow out,Minor in-service problems
+unserviceable leak sulphur,Breakdown
+tripping issue,Electrical
+unable to reset,Failure to stop on demand
+need modifying,Minor in-service problems
+tripping out,Electrical
+requires topupstop,Minor in-service problems
+dragged,Minor in-service problems
+not performingpumping,Breakdown
+getting jammed,Plugged / choked
+failed restest,Failure to start on demand
+starting issue,Failure to start on demand
+wrong range,Abnormal instrument reading
+may be failing,Fail to function
+stretched,Minor in-service problems
+does dont pump at,Plugged / choked
+stuck in open position,Fail to function
+seize,Breakdown
+hole in,Structural deficiency
+snappedplugged,Structural deficiency
+consumeing,Leaking
+keeps vibrating shut,Vibration
+not able to pump,Plugged / choked
+needs a descale,Minor in-service problems
+passing u,Leaking
+out of adjustment,Minor in-service problems
+failure,Breakdown
+needs reset,Electrical
+rupture,Structural deficiency
+vibrating,Vibration
+rubbing,Vibration
+leakingneed,Leaking
+playingup,Erratic output
+broken into,Breakdown
+doesnt pump to,Plugged / choked
+corrosion,Structural deficiency
+squealing,Noise
+noyt pumping,Breakdown
+fault tripping,Electrical
+needs to be repacked,Minor in-service problems
+will not turn,Fail to function
+grinding,Noise
+rusted,Structural deficiency
+trips on overload,Electrical
+stopping,Spurious stop
+split in two place,Structural deficiency
+hanging,Other
+needs fixing,Minor in-service problems
+detached,Minor in-service problems
+brokenmissing,Breakdown
+need repacking,Minor in-service problems
+wont pump to,Breakdown
+sce fault,Fail to function
+wont run,Failure to start on demand
+requires modifying,Minor in-service problems
+requires replacement,Minor in-service problems
+triped,Electrical
+stopping randomly,Spurious stop

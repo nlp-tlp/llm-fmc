@@ -1,0 +1,68 @@
+{"prompt":"inefficient ->","completion":" 1_Plugged_\/_choked"}
+{"prompt":"hole ->","completion":" 4_Structural_deficiency"}
+{"prompt":"stopped ->","completion":" 20_Spurious_stop"}
+{"prompt":"failing to open fully ->","completion":" 21_Fail_to_open"}
+{"prompt":"stopped communicatiing ->","completion":" 20_Spurious_stop"}
+{"prompt":"gone ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"has high earth resistance ->","completion":" 11_Electrical"}
+{"prompt":"unserviceable su ->","completion":" 0_Breakdown"}
+{"prompt":"leak excessivly ->","completion":" 2_Leaking"}
+{"prompt":"unable to get running ->","completion":" 6_Failure_to_start_on_demand"}
+{"prompt":"flickering anytime ->","completion":" 18_Erratic_output"}
+{"prompt":"needs descale ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"spilling ->","completion":" 2_Leaking"}
+{"prompt":"not square ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"rocking voilently ->","completion":" 7_Vibration"}
+{"prompt":"burnt off ->","completion":" 8_Overheating"}
+{"prompt":"twisted ->","completion":" 9_Fail_to_function"}
+{"prompt":"keeps tripping on start up ->","completion":" 11_Electrical"}
+{"prompt":"unsecure ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"not pumping away ->","completion":" 1_Plugged_\/_choked"}
+{"prompt":"siezedjammed ->","completion":" 0_Breakdown"}
+{"prompt":"no output ->","completion":" 1_Plugged_\/_choked"}
+{"prompt":"faulted ->","completion":" 11_Electrical"}
+{"prompt":"burn ->","completion":" 8_Overheating"}
+{"prompt":"smoking hot ->","completion":" 8_Overheating"}
+{"prompt":"issue ->","completion":" 14_Other"}
+{"prompt":"erroded ->","completion":" 4_Structural_deficiency"}
+{"prompt":"leak out ->","completion":" 2_Leaking"}
+{"prompt":"detaching ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"passing slurry ->","completion":" 2_Leaking"}
+{"prompt":"leak u ->","completion":" 2_Leaking"}
+{"prompt":"low pressure ->","completion":" 1_Plugged_\/_choked"}
+{"prompt":"not reading ->","completion":" 13_Abnormal_instrument_reading"}
+{"prompt":"wornblocked ->","completion":" 4_Structural_deficiency"}
+{"prompt":"require replacing ->","completion":" 0_Breakdown"}
+{"prompt":"not starting in sequence ->","completion":" 6_Failure_to_start_on_demand"}
+{"prompt":"requires descale ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"feedback ->","completion":" 11_Electrical"}
+{"prompt":"misaligned ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"unable to increase ->","completion":" 10_Low_output"}
+{"prompt":"defect ->","completion":" 4_Structural_deficiency"}
+{"prompt":"constantly tripping ->","completion":" 11_Electrical"}
+{"prompt":"excesively worn ->","completion":" 4_Structural_deficiency"}
+{"prompt":"need change ->","completion":" 0_Breakdown"}
+{"prompt":"not readingfalse ->","completion":" 13_Abnormal_instrument_reading"}
+{"prompt":"snaped off ->","completion":" 4_Structural_deficiency"}
+{"prompt":"requires de scale ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"not holding ->","completion":" 2_Leaking"}
+{"prompt":"badly worn ->","completion":" 4_Structural_deficiency"}
+{"prompt":"deformed ->","completion":" 4_Structural_deficiency"}
+{"prompt":"tripping instantly ->","completion":" 11_Electrical"}
+{"prompt":"not maintaining pressure ->","completion":" 1_Plugged_\/_choked"}
+{"prompt":"needs tuning ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"moving a lot ->","completion":" 7_Vibration"}
+{"prompt":"stops during operation ->","completion":" 20_Spurious_stop"}
+{"prompt":"missing hold down ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"will not fully close ->","completion":" 9_Fail_to_function"}
+{"prompt":"will not reset ->","completion":" 6_Failure_to_start_on_demand"}
+{"prompt":"flooding ->","completion":" 2_Leaking"}
+{"prompt":"need marking up ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"not in sequence ->","completion":" 11_Electrical"}
+{"prompt":"stiff to turn ->","completion":" 9_Fail_to_function"}
+{"prompt":"contanimated ->","completion":" 16_Contamination"}
+{"prompt":"wont close ->","completion":" 15_Fail_to_close"}
+{"prompt":"gear not spining ->","completion":" 19_Failure_to_rotate"}
+{"prompt":"eng will not shut down ->","completion":" 12_Failure_to_stop_on_demand"}
+{"prompt":"output high ->","completion":" 17_High_output"}
+{"prompt":"air cond. making heaps of noise. ->","completion":" 5_Noise"}

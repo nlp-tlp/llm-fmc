@@ -1,0 +1,62 @@
+{"prompt":"ejected ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"sticking shu ->","completion":" 9_Fail_to_function"}
+{"prompt":"not turning ->","completion":" 1_Plugged_\/_choked"}
+{"prompt":"has failed ->","completion":" 0_Breakdown"}
+{"prompt":"needs fitting ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"runs for a while and trip ->","completion":" 11_Electrical"}
+{"prompt":"very stiff to operate ->","completion":" 9_Fail_to_function"}
+{"prompt":"requires rebuild ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"has no equipment earth ->","completion":" 11_Electrical"}
+{"prompt":"require tighteninginspecti ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"does not work ->","completion":" 0_Breakdown"}
+{"prompt":"runs continuously ->","completion":" 12_Failure_to_stop_on_demand"}
+{"prompt":"severe corrosion ->","completion":" 4_Structural_deficiency"}
+{"prompt":"contamination ->","completion":" 16_Contamination"}
+{"prompt":"doesnt trip ->","completion":" 11_Electrical"}
+{"prompt":"ripped ->","completion":" 4_Structural_deficiency"}
+{"prompt":"unserviceable not in ->","completion":" 0_Breakdown"}
+{"prompt":"cant be adjusted ->","completion":" 9_Fail_to_function"}
+{"prompt":"worn ->","completion":" 4_Structural_deficiency"}
+{"prompt":"misalignment ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"switched o ->","completion":" 20_Spurious_stop"}
+{"prompt":"to be torqued ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"sped up ->","completion":" 17_High_output"}
+{"prompt":"unable to pump ->","completion":" 10_Low_output"}
+{"prompt":"spillage ->","completion":" 2_Leaking"}
+{"prompt":"spraying out slurry ->","completion":" 2_Leaking"}
+{"prompt":"jammed open ->","completion":" 1_Plugged_\/_choked"}
+{"prompt":"no pump ->","completion":" 1_Plugged_\/_choked"}
+{"prompt":"not truning ->","completion":" 1_Plugged_\/_choked"}
+{"prompt":"unable to tighten ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"burnt ->","completion":" 8_Overheating"}
+{"prompt":"hot joint ->","completion":" 8_Overheating"}
+{"prompt":"burst ->","completion":" 0_Breakdown"}
+{"prompt":"pumping fault ->","completion":" 10_Low_output"}
+{"prompt":"not controlling ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"surging cutting in and out ->","completion":" 11_Electrical"}
+{"prompt":"failed electrical ->","completion":" 11_Electrical"}
+{"prompt":"loose tighten ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"high earth reading ->","completion":" 13_Abnormal_instrument_reading"}
+{"prompt":"cavitating ->","completion":" 18_Erratic_output"}
+{"prompt":"requires repack ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"needs support ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"needs maintenance ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"not spinning ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"dont activate ->","completion":" 6_Failure_to_start_on_demand"}
+{"prompt":"unserviceable b feluwa ->","completion":" 0_Breakdown"}
+{"prompt":"no power ->","completion":" 11_Electrical"}
+{"prompt":"requires cleaning ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"doesnt work ->","completion":" 0_Breakdown"}
+{"prompt":"vibrationlubealignment ->","completion":" 7_Vibration"}
+{"prompt":"blockage ->","completion":" 1_Plugged_\/_choked"}
+{"prompt":"ongoing issue ->","completion":" 14_Other"}
+{"prompt":"poorly supported ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"rocking around ->","completion":" 7_Vibration"}
+{"prompt":"siezeddescale ->","completion":" 0_Breakdown"}
+{"prompt":"dropped ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"spraying ->","completion":" 2_Leaking"}
+{"prompt":"not covered ->","completion":" 3_Minor_in-service_problems"}
+{"prompt":"hot jointfurn ->","completion":" 8_Overheating"}
+{"prompt":"running dry ->","completion":" 14_Other"}
+{"prompt":"smoking up ->","completion":" 8_Overheating"}
+{"prompt":"jammed ->","completion":" 1_Plugged_\/_choked"}
