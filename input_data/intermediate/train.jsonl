@@ -1,502 +1,502 @@
-{"prompt":"falure","completion":"0_Breakdown"}
-{"prompt":"unserviceable dpr 1","completion":"0_Breakdown"}
-{"prompt":"bogged","completion":"1_Plugged_\/_choked"}
-{"prompt":"spaying slurry","completion":"2_Leaking"}
-{"prompt":"fell of","completion":"3_Minor_in-service_problems"}
-{"prompt":"no pressure output","completion":"1_Plugged_\/_choked"}
-{"prompt":"damageblockage","completion":"4_Structural_deficiency"}
-{"prompt":"squeeling","completion":"5_Noise"}
-{"prompt":"requires repacking","completion":"3_Minor_in-service_problems"}
-{"prompt":"no starting issue","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"shaking","completion":"7_Vibration"}
-{"prompt":"blow","completion":"3_Minor_in-service_problems"}
-{"prompt":"need a descale","completion":"3_Minor_in-service_problems"}
-{"prompt":"over heating","completion":"8_Overheating"}
-{"prompt":"vibrationcheck","completion":"7_Vibration"}
-{"prompt":"vibration issue","completion":"7_Vibration"}
-{"prompt":"not open","completion":"3_Minor_in-service_problems"}
-{"prompt":"sticking","completion":"9_Fail_to_function"}
-{"prompt":"seized shut","completion":"0_Breakdown"}
-{"prompt":"blocked","completion":"1_Plugged_\/_choked"}
-{"prompt":"not working","completion":"0_Breakdown"}
-{"prompt":"not energising","completion":"10_Low_output"}
-{"prompt":"power issue","completion":"11_Electrical"}
-{"prompt":"needs repairing","completion":"4_Structural_deficiency"}
-{"prompt":"not performing","completion":"0_Breakdown"}
-{"prompt":"wont run and","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"boil out","completion":"8_Overheating"}
-{"prompt":"not supplying","completion":"1_Plugged_\/_choked"}
-{"prompt":"spilled","completion":"2_Leaking"}
-{"prompt":"stuck in","completion":"9_Fail_to_function"}
-{"prompt":"leak exponentially","completion":"2_Leaking"}
-{"prompt":"not keeping up","completion":"10_Low_output"}
-{"prompt":"pumping issue","completion":"10_Low_output"}
-{"prompt":"leak slurry","completion":"2_Leaking"}
-{"prompt":"us","completion":"0_Breakdown"}
-{"prompt":"requires attention","completion":"3_Minor_in-service_problems"}
-{"prompt":"does not stop","completion":"12_Failure_to_stop_on_demand"}
-{"prompt":"noisy sce","completion":"5_Noise"}
-{"prompt":"twisting","completion":"9_Fail_to_function"}
-{"prompt":"needs to be extended","completion":"3_Minor_in-service_problems"}
-{"prompt":"lost its packing","completion":"2_Leaking"}
-{"prompt":"rusted through","completion":"4_Structural_deficiency"}
-{"prompt":"needs to be held down","completion":"3_Minor_in-service_problems"}
-{"prompt":"flow issue","completion":"1_Plugged_\/_choked"}
-{"prompt":"degraded","completion":"4_Structural_deficiency"}
-{"prompt":"wont pump floc","completion":"0_Breakdown"}
-{"prompt":"leakspray","completion":"2_Leaking"}
-{"prompt":"wont run in","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"needs repacked","completion":"3_Minor_in-service_problems"}
-{"prompt":"passing excessively","completion":"2_Leaking"}
-{"prompt":"blocking","completion":"1_Plugged_\/_choked"}
-{"prompt":"not engaging","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"shredded","completion":"4_Structural_deficiency"}
-{"prompt":"noise","completion":"5_Noise"}
-{"prompt":"blown out","completion":"3_Minor_in-service_problems"}
-{"prompt":"needs replacing","completion":"0_Breakdown"}
-{"prompt":"not running","completion":"0_Breakdown"}
-{"prompt":"leak when shut","completion":"2_Leaking"}
-{"prompt":"fall off","completion":"3_Minor_in-service_problems"}
-{"prompt":"not being pumped away","completion":"1_Plugged_\/_choked"}
-{"prompt":"scaled up","completion":"3_Minor_in-service_problems"}
-{"prompt":"fallen off","completion":"3_Minor_in-service_problems"}
-{"prompt":"broke away","completion":"0_Breakdown"}
-{"prompt":"cannot run in","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"not pumping enough","completion":"1_Plugged_\/_choked"}
-{"prompt":"not stopping","completion":"12_Failure_to_stop_on_demand"}
-{"prompt":"unable to shu","completion":"12_Failure_to_stop_on_demand"}
-{"prompt":"failed internaly","completion":"0_Breakdown"}
-{"prompt":"not there","completion":"3_Minor_in-service_problems"}
-{"prompt":"inefficiant","completion":"1_Plugged_\/_choked"}
-{"prompt":"no reading","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"will not start in","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"been running hot","completion":"8_Overheating"}
-{"prompt":"fallen out","completion":"3_Minor_in-service_problems"}
-{"prompt":"leak on","completion":"2_Leaking"}
-{"prompt":"to be removed","completion":"0_Breakdown"}
-{"prompt":"unsupported","completion":"3_Minor_in-service_problems"}
-{"prompt":"giving false reading","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"leak in two place","completion":"2_Leaking"}
-{"prompt":"not reaching flow","completion":"1_Plugged_\/_choked"}
-{"prompt":"wont turn","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"not able to open","completion":"3_Minor_in-service_problems"}
-{"prompt":"need straighting","completion":"3_Minor_in-service_problems"}
-{"prompt":"hot liquid","completion":"8_Overheating"}
-{"prompt":"fell apart","completion":"3_Minor_in-service_problems"}
-{"prompt":"fail again","completion":"0_Breakdown"}
-{"prompt":"needs to be replaced","completion":"0_Breakdown"}
-{"prompt":"underperforming","completion":"10_Low_output"}
-{"prompt":"corroded close out","completion":"4_Structural_deficiency"}
-{"prompt":"not kicking in","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"needs to be descaled","completion":"3_Minor_in-service_problems"}
-{"prompt":"over flowed","completion":"2_Leaking"}
-{"prompt":"non operational","completion":"0_Breakdown"}
-{"prompt":"running fault","completion":"14_Other"}
-{"prompt":"unable to run","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"come adrift","completion":"3_Minor_in-service_problems"}
-{"prompt":"stiff","completion":"9_Fail_to_function"}
-{"prompt":"not high enough","completion":"10_Low_output"}
-{"prompt":"broken off","completion":"0_Breakdown"}
-{"prompt":"snapped","completion":"4_Structural_deficiency"}
-{"prompt":"shorted out","completion":"11_Electrical"}
-{"prompt":"running when sump empty","completion":"14_Other"}
-{"prompt":"faul","completion":"11_Electrical"}
-{"prompt":"has a hole on","completion":"4_Structural_deficiency"}
-{"prompt":"will not trip","completion":"11_Electrical"}
-{"prompt":"failing to start","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"needs adjusting","completion":"3_Minor_in-service_problems"}
-{"prompt":"sheared","completion":"4_Structural_deficiency"}
-{"prompt":"failed","completion":"0_Breakdown"}
-{"prompt":"no guarding","completion":"3_Minor_in-service_problems"}
-{"prompt":"unresponsive","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"no sightglass","completion":"3_Minor_in-service_problems"}
-{"prompt":"not connected","completion":"3_Minor_in-service_problems"}
-{"prompt":"unserviceable and line","completion":"0_Breakdown"}
-{"prompt":"keeps triping","completion":"11_Electrical"}
-{"prompt":"coming out","completion":"3_Minor_in-service_problems"}
-{"prompt":"requires handle","completion":"3_Minor_in-service_problems"}
-{"prompt":"low flow","completion":"1_Plugged_\/_choked"}
-{"prompt":"split","completion":"4_Structural_deficiency"}
-{"prompt":"fail to start","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"wont reset","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"hard to close","completion":"15_Fail_to_close"}
-{"prompt":"hole in suction","completion":"4_Structural_deficiency"}
-{"prompt":"worn through","completion":"4_Structural_deficiency"}
-{"prompt":"passingleaking","completion":"2_Leaking"}
-{"prompt":"not opening","completion":"3_Minor_in-service_problems"}
-{"prompt":"jammedseized","completion":"1_Plugged_\/_choked"}
-{"prompt":"damage","completion":"4_Structural_deficiency"}
-{"prompt":"passing on","completion":"2_Leaking"}
-{"prompt":"weak","completion":"14_Other"}
-{"prompt":"viberating","completion":"7_Vibration"}
-{"prompt":"static earth resistance","completion":"11_Electrical"}
-{"prompt":"needs to be rebuilt","completion":"3_Minor_in-service_problems"}
-{"prompt":"needs supporting","completion":"3_Minor_in-service_problems"}
-{"prompt":"wont work","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"wornbelt","completion":"4_Structural_deficiency"}
-{"prompt":"not attached corroded","completion":"3_Minor_in-service_problems"}
-{"prompt":"keeps tripping","completion":"11_Electrical"}
-{"prompt":"weeping","completion":"2_Leaking"}
-{"prompt":"badly rusted","completion":"4_Structural_deficiency"}
-{"prompt":"bad vibration","completion":"7_Vibration"}
-{"prompt":"fire","completion":"8_Overheating"}
-{"prompt":"faulting","completion":"11_Electrical"}
-{"prompt":"contaminating condensate","completion":"16_Contamination"}
-{"prompt":"too fast","completion":"17_High_output"}
-{"prompt":"low viscosity","completion":"16_Contamination"}
-{"prompt":"not closing","completion":"3_Minor_in-service_problems"}
-{"prompt":"require adjusting","completion":"3_Minor_in-service_problems"}
-{"prompt":"sound","completion":"5_Noise"}
-{"prompt":"bent","completion":"3_Minor_in-service_problems"}
-{"prompt":"corrosion on","completion":"4_Structural_deficiency"}
-{"prompt":"doesnt operate","completion":"0_Breakdown"}
-{"prompt":"seized open","completion":"0_Breakdown"}
-{"prompt":"excessive stopstart","completion":"18_Erratic_output"}
-{"prompt":"needs replaceing","completion":"0_Breakdown"}
-{"prompt":"hot thermography","completion":"8_Overheating"}
-{"prompt":"erratic","completion":"18_Erratic_output"}
-{"prompt":"false high level","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"will not shut","completion":"9_Fail_to_function"}
-{"prompt":"lagging","completion":"10_Low_output"}
-{"prompt":"blew off","completion":"3_Minor_in-service_problems"}
-{"prompt":"no fill","completion":"3_Minor_in-service_problems"}
-{"prompt":"needs packing","completion":"3_Minor_in-service_problems"}
-{"prompt":"wont pump","completion":"0_Breakdown"}
-{"prompt":"badly corrod","completion":"4_Structural_deficiency"}
-{"prompt":"surging","completion":"11_Electrical"}
-{"prompt":"false reading","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"not pumping enough to get","completion":"1_Plugged_\/_choked"}
-{"prompt":"not draining","completion":"1_Plugged_\/_choked"}
-{"prompt":"not wo","completion":"0_Breakdown"}
-{"prompt":"not charging","completion":"11_Electrical"}
-{"prompt":"locked","completion":"19_Failure_to_rotate"}
-{"prompt":"not moving","completion":"1_Plugged_\/_choked"}
-{"prompt":"milky","completion":"16_Contamination"}
-{"prompt":"require tightening","completion":"3_Minor_in-service_problems"}
-{"prompt":"siezed","completion":"0_Breakdown"}
-{"prompt":"no pressure","completion":"1_Plugged_\/_choked"}
-{"prompt":"disconnected","completion":"0_Breakdown"}
-{"prompt":"coming adrift","completion":"3_Minor_in-service_problems"}
-{"prompt":"ruptured","completion":"4_Structural_deficiency"}
-{"prompt":"not pumpung","completion":"1_Plugged_\/_choked"}
-{"prompt":"leakhose","completion":"2_Leaking"}
-{"prompt":"cracked","completion":"4_Structural_deficiency"}
-{"prompt":"broken loose","completion":"0_Breakdown"}
-{"prompt":"failing","completion":"0_Breakdown"}
-{"prompt":"looseworn","completion":"3_Minor_in-service_problems"}
-{"prompt":"alarming eratically","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"are not operational","completion":"0_Breakdown"}
-{"prompt":"no static","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"siezed shut","completion":"0_Breakdown"}
-{"prompt":"running too slow","completion":"10_Low_output"}
-{"prompt":"rusty","completion":"4_Structural_deficiency"}
-{"prompt":"needs modifying","completion":"3_Minor_in-service_problems"}
-{"prompt":"died","completion":"0_Breakdown"}
-{"prompt":"smoking","completion":"8_Overheating"}
-{"prompt":"pulling very high","completion":"17_High_output"}
-{"prompt":"blowin","completion":"3_Minor_in-service_problems"}
-{"prompt":"not stopping at","completion":"12_Failure_to_stop_on_demand"}
-{"prompt":"not operational","completion":"0_Breakdown"}
-{"prompt":"seizedbogged","completion":"0_Breakdown"}
-{"prompt":"usversicol","completion":"0_Breakdown"}
-{"prompt":"static","completion":"11_Electrical"}
-{"prompt":"does not trip","completion":"11_Electrical"}
-{"prompt":"needs alignment","completion":"3_Minor_in-service_problems"}
-{"prompt":"contaimination","completion":"16_Contamination"}
-{"prompt":"burst again","completion":"0_Breakdown"}
-{"prompt":"smoke","completion":"8_Overheating"}
-{"prompt":"losing","completion":"3_Minor_in-service_problems"}
-{"prompt":"no belt","completion":"3_Minor_in-service_problems"}
-{"prompt":"needs tightened","completion":"3_Minor_in-service_problems"}
-{"prompt":"not turning restriction","completion":"1_Plugged_\/_choked"}
-{"prompt":"no signal","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"emulsified","completion":"16_Contamination"}
-{"prompt":"alarming vibration","completion":"7_Vibration"}
-{"prompt":"needs patched up","completion":"3_Minor_in-service_problems"}
-{"prompt":"blew off top of","completion":"3_Minor_in-service_problems"}
-{"prompt":"badly corroded in","completion":"4_Structural_deficiency"}
-{"prompt":"perished","completion":"0_Breakdown"}
-{"prompt":"need calibration","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"jammed in place","completion":"1_Plugged_\/_choked"}
-{"prompt":"collapsed","completion":"0_Breakdown"}
-{"prompt":"requires slotting","completion":"3_Minor_in-service_problems"}
-{"prompt":"fault finding","completion":"11_Electrical"}
-{"prompt":"reading inaccurate","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"sucked in","completion":"14_Other"}
-{"prompt":"come loose","completion":"3_Minor_in-service_problems"}
-{"prompt":"no phase","completion":"11_Electrical"}
-{"prompt":"bore tripping","completion":"11_Electrical"}
-{"prompt":"spill to ground","completion":"11_Electrical"}
-{"prompt":"reading high","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"rusted away","completion":"4_Structural_deficiency"}
-{"prompt":"needs a repack","completion":"3_Minor_in-service_problems"}
-{"prompt":"fried","completion":"0_Breakdown"}
-{"prompt":"no speed control","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"seized breakdown","completion":"0_Breakdown"}
-{"prompt":"needs replacement","completion":"0_Breakdown"}
-{"prompt":"not workin","completion":"0_Breakdown"}
-{"prompt":"require investigating","completion":"3_Minor_in-service_problems"}
-{"prompt":"passing when closed","completion":"2_Leaking"}
-{"prompt":"not operating","completion":"0_Breakdown"}
-{"prompt":"crack","completion":"4_Structural_deficiency"}
-{"prompt":"stopped pumping","completion":"20_Spurious_stop"}
-{"prompt":"not pumping issue","completion":"1_Plugged_\/_choked"}
-{"prompt":"vibration","completion":"7_Vibration"}
-{"prompt":"no flow","completion":"1_Plugged_\/_choked"}
-{"prompt":"restricted","completion":"10_Low_output"}
-{"prompt":"high vibration","completion":"7_Vibration"}
-{"prompt":"unserviceable no contol","completion":"0_Breakdown"}
-{"prompt":"slippery","completion":"3_Minor_in-service_problems"}
-{"prompt":"no seal","completion":"3_Minor_in-service_problems"}
-{"prompt":"leak underflow","completion":"2_Leaking"}
-{"prompt":"blockedseized","completion":"1_Plugged_\/_choked"}
-{"prompt":"broken near","completion":"0_Breakdown"}
-{"prompt":"faulty earth","completion":"11_Electrical"}
-{"prompt":"not maintaining","completion":"1_Plugged_\/_choked"}
-{"prompt":"wont rotate","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"not efficient","completion":"10_Low_output"}
-{"prompt":"will not start","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"contamination trip","completion":"16_Contamination"}
-{"prompt":"not working on","completion":"0_Breakdown"}
-{"prompt":"blown out at","completion":"3_Minor_in-service_problems"}
-{"prompt":"trips out","completion":"11_Electrical"}
-{"prompt":"struggling","completion":"10_Low_output"}
-{"prompt":"slow","completion":"10_Low_output"}
-{"prompt":"keeps on tripping","completion":"11_Electrical"}
-{"prompt":"reading stuck","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"not pumping","completion":"1_Plugged_\/_choked"}
-{"prompt":"torn","completion":"4_Structural_deficiency"}
-{"prompt":"cutting in and out","completion":"18_Erratic_output"}
-{"prompt":"leakhole","completion":"2_Leaking"}
-{"prompt":"come free of","completion":"3_Minor_in-service_problems"}
-{"prompt":"contaminated","completion":"16_Contamination"}
-{"prompt":"not pumpingeast","completion":"1_Plugged_\/_choked"}
-{"prompt":"no oil movement","completion":"1_Plugged_\/_choked"}
-{"prompt":"cold","completion":"14_Other"}
-{"prompt":"problem","completion":"14_Other"}
-{"prompt":"keeps tripping at start","completion":"11_Electrical"}
-{"prompt":"severely corroded","completion":"4_Structural_deficiency"}
-{"prompt":"needs repack","completion":"3_Minor_in-service_problems"}
-{"prompt":"not secure","completion":"3_Minor_in-service_problems"}
-{"prompt":"missing on","completion":"3_Minor_in-service_problems"}
-{"prompt":"require changing","completion":"3_Minor_in-service_problems"}
-{"prompt":"have smoked up","completion":"8_Overheating"}
-{"prompt":"rusted of","completion":"4_Structural_deficiency"}
-{"prompt":"relieving too early","completion":"2_Leaking"}
-{"prompt":"missing blank","completion":"3_Minor_in-service_problems"}
-{"prompt":"will not restart","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"needs repacking","completion":"3_Minor_in-service_problems"}
-{"prompt":"high amp","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"weaping","completion":"2_Leaking"}
-{"prompt":"burnt out","completion":"8_Overheating"}
-{"prompt":"blowen","completion":"3_Minor_in-service_problems"}
-{"prompt":"adrift","completion":"3_Minor_in-service_problems"}
-{"prompt":"seizes at time","completion":"0_Breakdown"}
-{"prompt":"may burst","completion":"4_Structural_deficiency"}
-{"prompt":"sparaying","completion":"2_Leaking"}
-{"prompt":"tripping straight away","completion":"11_Electrical"}
-{"prompt":"has a split in","completion":"4_Structural_deficiency"}
-{"prompt":"corrodedstripped","completion":"4_Structural_deficiency"}
-{"prompt":"buggered","completion":"0_Breakdown"}
-{"prompt":"seized","completion":"0_Breakdown"}
-{"prompt":"pot in backward","completion":"3_Minor_in-service_problems"}
-{"prompt":"fault","completion":"11_Electrical"}
-{"prompt":"will not pump","completion":"0_Breakdown"}
-{"prompt":"tripping in","completion":"11_Electrical"}
-{"prompt":"requires replacing","completion":"3_Minor_in-service_problems"}
-{"prompt":"continually tripping","completion":"11_Electrical"}
-{"prompt":"no run indication","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"running hot","completion":"8_Overheating"}
-{"prompt":"poor","completion":"9_Fail_to_function"}
-{"prompt":"keeps tripping out","completion":"11_Electrical"}
-{"prompt":"playing up","completion":"18_Erratic_output"}
-{"prompt":"not providing pressure","completion":"1_Plugged_\/_choked"}
-{"prompt":"not starting","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"sheared off","completion":"4_Structural_deficiency"}
-{"prompt":"not puming","completion":"1_Plugged_\/_choked"}
-{"prompt":"corroding","completion":"4_Structural_deficiency"}
-{"prompt":"spraying out of","completion":"2_Leaking"}
-{"prompt":"badly corroded","completion":"4_Structural_deficiency"}
-{"prompt":"requires clean","completion":"3_Minor_in-service_problems"}
-{"prompt":"holedinspect","completion":"4_Structural_deficiency"}
-{"prompt":"no earth","completion":"11_Electrical"}
-{"prompt":"missingloose","completion":"3_Minor_in-service_problems"}
-{"prompt":"siezing on","completion":"0_Breakdown"}
-{"prompt":"keeps kicking in","completion":"12_Failure_to_stop_on_demand"}
-{"prompt":"not efficiant","completion":"10_Low_output"}
-{"prompt":"sheered","completion":"4_Structural_deficiency"}
-{"prompt":"incorrect orientation","completion":"3_Minor_in-service_problems"}
-{"prompt":"worn out","completion":"4_Structural_deficiency"}
-{"prompt":"signal error","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"earth fault","completion":"11_Electrical"}
-{"prompt":"unserviceable pump","completion":"0_Breakdown"}
-{"prompt":"not attached","completion":"3_Minor_in-service_problems"}
-{"prompt":"leaked out","completion":"2_Leaking"}
-{"prompt":"shorting out","completion":"11_Electrical"}
-{"prompt":"tripping on overload","completion":"11_Electrical"}
-{"prompt":"broken","completion":"0_Breakdown"}
-{"prompt":"heavy corrosion","completion":"4_Structural_deficiency"}
-{"prompt":"unable to reach","completion":"10_Low_output"}
-{"prompt":"wont open","completion":"9_Fail_to_function"}
-{"prompt":"lealing","completion":"2_Leaking"}
-{"prompt":"needs another row","completion":"3_Minor_in-service_problems"}
-{"prompt":"down to earth","completion":"11_Electrical"}
-{"prompt":"very corroded","completion":"4_Structural_deficiency"}
-{"prompt":"will not start after flushing","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"slurry spraying out","completion":"2_Leaking"}
-{"prompt":"badly corr","completion":"4_Structural_deficiency"}
-{"prompt":"covered","completion":"3_Minor_in-service_problems"}
-{"prompt":"requires a descale","completion":"3_Minor_in-service_problems"}
-{"prompt":"starting to crack","completion":"4_Structural_deficiency"}
-{"prompt":"crack in transition","completion":"4_Structural_deficiency"}
-{"prompt":"constantly losing","completion":"2_Leaking"}
-{"prompt":"continually trips out","completion":"11_Electrical"}
-{"prompt":"dirty","completion":"3_Minor_in-service_problems"}
-{"prompt":"worn again","completion":"4_Structural_deficiency"}
-{"prompt":"broke","completion":"0_Breakdown"}
-{"prompt":"needs to be flushed","completion":"3_Minor_in-service_problems"}
-{"prompt":"rusted off","completion":"4_Structural_deficiency"}
-{"prompt":"stopped working","completion":"20_Spurious_stop"}
-{"prompt":"stuck","completion":"9_Fail_to_function"}
-{"prompt":"appears loose","completion":"3_Minor_in-service_problems"}
-{"prompt":"very high vibration","completion":"7_Vibration"}
-{"prompt":"cannot start","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"not secured","completion":"3_Minor_in-service_problems"}
-{"prompt":"holed","completion":"4_Structural_deficiency"}
-{"prompt":"jammed closed","completion":"1_Plugged_\/_choked"}
-{"prompt":"tripping cause","completion":"11_Electrical"}
-{"prompt":"coroded","completion":"4_Structural_deficiency"}
-{"prompt":"needs to be dismantled","completion":"3_Minor_in-service_problems"}
-{"prompt":"missing off","completion":"3_Minor_in-service_problems"}
-{"prompt":"knocking","completion":"5_Noise"}
-{"prompt":"slipping","completion":"3_Minor_in-service_problems"}
-{"prompt":"tripping on","completion":"11_Electrical"}
-{"prompt":"caught in suction","completion":"3_Minor_in-service_problems"}
-{"prompt":"defect notice","completion":"4_Structural_deficiency"}
-{"prompt":"will not stay running","completion":"20_Spurious_stop"}
-{"prompt":"come off","completion":"3_Minor_in-service_problems"}
-{"prompt":"tripped out","completion":"11_Electrical"}
-{"prompt":"not accurate","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"loose","completion":"3_Minor_in-service_problems"}
-{"prompt":"has crack","completion":"4_Structural_deficiency"}
-{"prompt":"congested","completion":"1_Plugged_\/_choked"}
-{"prompt":"shows offline while running in field","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"showing signs of failure","completion":"14_Other"}
-{"prompt":"passing","completion":"2_Leaking"}
-{"prompt":"broken electrical","completion":"0_Breakdown"}
-{"prompt":"spraying out","completion":"2_Leaking"}
-{"prompt":"needs freeing up","completion":"1_Plugged_\/_choked"}
-{"prompt":"wont start","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"high earth resistance","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"pumping at high out put","completion":"17_High_output"}
-{"prompt":"pinholed","completion":"3_Minor_in-service_problems"}
-{"prompt":"poor flow","completion":"10_Low_output"}
-{"prompt":"slipped off","completion":"3_Minor_in-service_problems"}
-{"prompt":"faulty","completion":"11_Electrical"}
-{"prompt":"needs scope","completion":"3_Minor_in-service_problems"}
-{"prompt":"colapsed","completion":"0_Breakdown"}
-{"prompt":"will not run","completion":"0_Breakdown"}
-{"prompt":"exposed","completion":"3_Minor_in-service_problems"}
-{"prompt":"losing signal","completion":"11_Electrical"}
-{"prompt":"misaligning","completion":"3_Minor_in-service_problems"}
-{"prompt":"out of position","completion":"3_Minor_in-service_problems"}
-{"prompt":"need replacing","completion":"0_Breakdown"}
-{"prompt":"not running in","completion":"9_Fail_to_function"}
-{"prompt":"has split","completion":"4_Structural_deficiency"}
-{"prompt":"snapped off","completion":"4_Structural_deficiency"}
-{"prompt":"noisyvibrating","completion":"5_Noise"}
-{"prompt":"filled","completion":"2_Leaking"}
-{"prompt":"fail","completion":"0_Breakdown"}
-{"prompt":"fails to open in sequence","completion":"21_Fail_to_open"}
-{"prompt":"looseness","completion":"3_Minor_in-service_problems"}
-{"prompt":"too high","completion":"17_High_output"}
-{"prompt":"blowing","completion":"3_Minor_in-service_problems"}
-{"prompt":"running when empty","completion":"14_Other"}
-{"prompt":"hot","completion":"8_Overheating"}
-{"prompt":"fluctuates at high rate","completion":"18_Erratic_output"}
-{"prompt":"not reading right","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"sitting on hot","completion":"8_Overheating"}
-{"prompt":"not able to maintain level","completion":"1_Plugged_\/_choked"}
-{"prompt":"dislodged","completion":"3_Minor_in-service_problems"}
-{"prompt":"turning in reverse","completion":"9_Fail_to_function"}
-{"prompt":"no out put","completion":"1_Plugged_\/_choked"}
-{"prompt":"leaky","completion":"2_Leaking"}
-{"prompt":"tripping out on run up","completion":"11_Electrical"}
-{"prompt":"need replaceing","completion":"0_Breakdown"}
-{"prompt":"not pump","completion":"1_Plugged_\/_choked"}
-{"prompt":"will not run in","completion":"0_Breakdown"}
-{"prompt":"needs rebuild","completion":"0_Breakdown"}
-{"prompt":"leakingreplace","completion":"2_Leaking"}
-{"prompt":"stopped abruptly","completion":"20_Spurious_stop"}
-{"prompt":"brittle","completion":"4_Structural_deficiency"}
-{"prompt":"needs securing","completion":"3_Minor_in-service_problems"}
-{"prompt":"dented","completion":"4_Structural_deficiency"}
-{"prompt":"vibrationlaser","completion":"7_Vibration"}
-{"prompt":"inconsistant flow","completion":"1_Plugged_\/_choked"}
-{"prompt":"needs re build","completion":"0_Breakdown"}
-{"prompt":"unserviceable please replace","completion":"0_Breakdown"}
-{"prompt":"not connectedblanked","completion":"3_Minor_in-service_problems"}
-{"prompt":"earthing","completion":"11_Electrical"}
-{"prompt":"no indication","completion":"3_Minor_in-service_problems"}
-{"prompt":"stripped","completion":"4_Structural_deficiency"}
-{"prompt":"needs inspecting","completion":"3_Minor_in-service_problems"}
-{"prompt":"snaped","completion":"4_Structural_deficiency"}
-{"prompt":"didnt trip","completion":"11_Electrical"}
-{"prompt":"blow out","completion":"3_Minor_in-service_problems"}
-{"prompt":"unserviceable leak sulphur","completion":"0_Breakdown"}
-{"prompt":"tripping issue","completion":"11_Electrical"}
-{"prompt":"unable to reset","completion":"12_Failure_to_stop_on_demand"}
-{"prompt":"need modifying","completion":"3_Minor_in-service_problems"}
-{"prompt":"tripping out","completion":"11_Electrical"}
-{"prompt":"requires topupstop","completion":"3_Minor_in-service_problems"}
-{"prompt":"dragged","completion":"3_Minor_in-service_problems"}
-{"prompt":"not performingpumping","completion":"0_Breakdown"}
-{"prompt":"getting jammed","completion":"1_Plugged_\/_choked"}
-{"prompt":"failed restest","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"starting issue","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"wrong range","completion":"13_Abnormal_instrument_reading"}
-{"prompt":"may be failing","completion":"9_Fail_to_function"}
-{"prompt":"stretched","completion":"3_Minor_in-service_problems"}
-{"prompt":"does dont pump at","completion":"1_Plugged_\/_choked"}
-{"prompt":"stuck in open position","completion":"9_Fail_to_function"}
-{"prompt":"seize","completion":"0_Breakdown"}
-{"prompt":"hole in","completion":"4_Structural_deficiency"}
-{"prompt":"snappedplugged","completion":"4_Structural_deficiency"}
-{"prompt":"consumeing","completion":"2_Leaking"}
-{"prompt":"keeps vibrating shut","completion":"7_Vibration"}
-{"prompt":"not able to pump","completion":"1_Plugged_\/_choked"}
-{"prompt":"needs a descale","completion":"3_Minor_in-service_problems"}
-{"prompt":"passing u","completion":"2_Leaking"}
-{"prompt":"out of adjustment","completion":"3_Minor_in-service_problems"}
-{"prompt":"failure","completion":"0_Breakdown"}
-{"prompt":"needs reset","completion":"11_Electrical"}
-{"prompt":"rupture","completion":"4_Structural_deficiency"}
-{"prompt":"vibrating","completion":"7_Vibration"}
-{"prompt":"rubbing","completion":"7_Vibration"}
-{"prompt":"leakingneed","completion":"2_Leaking"}
-{"prompt":"playingup","completion":"18_Erratic_output"}
-{"prompt":"broken into","completion":"0_Breakdown"}
-{"prompt":"doesnt pump to","completion":"1_Plugged_\/_choked"}
-{"prompt":"corrosion","completion":"4_Structural_deficiency"}
-{"prompt":"squealing","completion":"5_Noise"}
-{"prompt":"noyt pumping","completion":"0_Breakdown"}
-{"prompt":"fault tripping","completion":"11_Electrical"}
-{"prompt":"needs to be repacked","completion":"3_Minor_in-service_problems"}
-{"prompt":"will not turn","completion":"9_Fail_to_function"}
-{"prompt":"grinding","completion":"5_Noise"}
-{"prompt":"rusted","completion":"4_Structural_deficiency"}
-{"prompt":"trips on overload","completion":"11_Electrical"}
-{"prompt":"stopping","completion":"20_Spurious_stop"}
-{"prompt":"split in two place","completion":"4_Structural_deficiency"}
-{"prompt":"hanging","completion":"14_Other"}
-{"prompt":"needs fixing","completion":"3_Minor_in-service_problems"}
-{"prompt":"detached","completion":"3_Minor_in-service_problems"}
-{"prompt":"brokenmissing","completion":"0_Breakdown"}
-{"prompt":"need repacking","completion":"3_Minor_in-service_problems"}
-{"prompt":"wont pump to","completion":"0_Breakdown"}
-{"prompt":"sce fault","completion":"9_Fail_to_function"}
-{"prompt":"wont run","completion":"6_Failure_to_start_on_demand"}
-{"prompt":"requires modifying","completion":"3_Minor_in-service_problems"}
-{"prompt":"requires replacement","completion":"3_Minor_in-service_problems"}
-{"prompt":"triped","completion":"11_Electrical"}
-{"prompt":"stopping randomly","completion":"20_Spurious_stop"}
+{"prompt":"falure","completion":0}
+{"prompt":"unserviceable dpr 1","completion":0}
+{"prompt":"bogged","completion":1}
+{"prompt":"spaying slurry","completion":2}
+{"prompt":"fell of","completion":3}
+{"prompt":"no pressure output","completion":1}
+{"prompt":"damageblockage","completion":4}
+{"prompt":"squeeling","completion":5}
+{"prompt":"requires repacking","completion":3}
+{"prompt":"no starting issue","completion":6}
+{"prompt":"shaking","completion":7}
+{"prompt":"blow","completion":3}
+{"prompt":"need a descale","completion":3}
+{"prompt":"over heating","completion":8}
+{"prompt":"vibrationcheck","completion":7}
+{"prompt":"vibration issue","completion":7}
+{"prompt":"not open","completion":3}
+{"prompt":"sticking","completion":9}
+{"prompt":"seized shut","completion":0}
+{"prompt":"blocked","completion":1}
+{"prompt":"not working","completion":0}
+{"prompt":"not energising","completion":10}
+{"prompt":"power issue","completion":11}
+{"prompt":"needs repairing","completion":4}
+{"prompt":"not performing","completion":0}
+{"prompt":"wont run and","completion":6}
+{"prompt":"boil out","completion":8}
+{"prompt":"not supplying","completion":1}
+{"prompt":"spilled","completion":2}
+{"prompt":"stuck in","completion":9}
+{"prompt":"leak exponentially","completion":2}
+{"prompt":"not keeping up","completion":10}
+{"prompt":"pumping issue","completion":10}
+{"prompt":"leak slurry","completion":2}
+{"prompt":"us","completion":0}
+{"prompt":"requires attention","completion":3}
+{"prompt":"does not stop","completion":12}
+{"prompt":"noisy sce","completion":5}
+{"prompt":"twisting","completion":9}
+{"prompt":"needs to be extended","completion":3}
+{"prompt":"lost its packing","completion":2}
+{"prompt":"rusted through","completion":4}
+{"prompt":"needs to be held down","completion":3}
+{"prompt":"flow issue","completion":1}
+{"prompt":"degraded","completion":4}
+{"prompt":"wont pump floc","completion":0}
+{"prompt":"leakspray","completion":2}
+{"prompt":"wont run in","completion":6}
+{"prompt":"needs repacked","completion":3}
+{"prompt":"passing excessively","completion":2}
+{"prompt":"blocking","completion":1}
+{"prompt":"not engaging","completion":6}
+{"prompt":"shredded","completion":4}
+{"prompt":"noise","completion":5}
+{"prompt":"blown out","completion":3}
+{"prompt":"needs replacing","completion":0}
+{"prompt":"not running","completion":0}
+{"prompt":"leak when shut","completion":2}
+{"prompt":"fall off","completion":3}
+{"prompt":"not being pumped away","completion":1}
+{"prompt":"scaled up","completion":3}
+{"prompt":"fallen off","completion":3}
+{"prompt":"broke away","completion":0}
+{"prompt":"cannot run in","completion":6}
+{"prompt":"not pumping enough","completion":1}
+{"prompt":"not stopping","completion":12}
+{"prompt":"unable to shu","completion":12}
+{"prompt":"failed internaly","completion":0}
+{"prompt":"not there","completion":3}
+{"prompt":"inefficiant","completion":1}
+{"prompt":"no reading","completion":13}
+{"prompt":"will not start in","completion":6}
+{"prompt":"been running hot","completion":8}
+{"prompt":"fallen out","completion":3}
+{"prompt":"leak on","completion":2}
+{"prompt":"to be removed","completion":0}
+{"prompt":"unsupported","completion":3}
+{"prompt":"giving false reading","completion":13}
+{"prompt":"leak in two place","completion":2}
+{"prompt":"not reaching flow","completion":1}
+{"prompt":"wont turn","completion":6}
+{"prompt":"not able to open","completion":3}
+{"prompt":"need straighting","completion":3}
+{"prompt":"hot liquid","completion":8}
+{"prompt":"fell apart","completion":3}
+{"prompt":"fail again","completion":0}
+{"prompt":"needs to be replaced","completion":0}
+{"prompt":"underperforming","completion":10}
+{"prompt":"corroded close out","completion":4}
+{"prompt":"not kicking in","completion":6}
+{"prompt":"needs to be descaled","completion":3}
+{"prompt":"over flowed","completion":2}
+{"prompt":"non operational","completion":0}
+{"prompt":"running fault","completion":14}
+{"prompt":"unable to run","completion":6}
+{"prompt":"come adrift","completion":3}
+{"prompt":"stiff","completion":9}
+{"prompt":"not high enough","completion":10}
+{"prompt":"broken off","completion":0}
+{"prompt":"snapped","completion":4}
+{"prompt":"shorted out","completion":11}
+{"prompt":"running when sump empty","completion":14}
+{"prompt":"faul","completion":11}
+{"prompt":"has a hole on","completion":4}
+{"prompt":"will not trip","completion":11}
+{"prompt":"failing to start","completion":6}
+{"prompt":"needs adjusting","completion":3}
+{"prompt":"sheared","completion":4}
+{"prompt":"failed","completion":0}
+{"prompt":"no guarding","completion":3}
+{"prompt":"unresponsive","completion":6}
+{"prompt":"no sightglass","completion":3}
+{"prompt":"not connected","completion":3}
+{"prompt":"unserviceable and line","completion":0}
+{"prompt":"keeps triping","completion":11}
+{"prompt":"coming out","completion":3}
+{"prompt":"requires handle","completion":3}
+{"prompt":"low flow","completion":1}
+{"prompt":"split","completion":4}
+{"prompt":"fail to start","completion":6}
+{"prompt":"wont reset","completion":6}
+{"prompt":"hard to close","completion":15}
+{"prompt":"hole in suction","completion":4}
+{"prompt":"worn through","completion":4}
+{"prompt":"passingleaking","completion":2}
+{"prompt":"not opening","completion":3}
+{"prompt":"jammedseized","completion":1}
+{"prompt":"damage","completion":4}
+{"prompt":"passing on","completion":2}
+{"prompt":"weak","completion":14}
+{"prompt":"viberating","completion":7}
+{"prompt":"static earth resistance","completion":11}
+{"prompt":"needs to be rebuilt","completion":3}
+{"prompt":"needs supporting","completion":3}
+{"prompt":"wont work","completion":6}
+{"prompt":"wornbelt","completion":4}
+{"prompt":"not attached corroded","completion":3}
+{"prompt":"keeps tripping","completion":11}
+{"prompt":"weeping","completion":2}
+{"prompt":"badly rusted","completion":4}
+{"prompt":"bad vibration","completion":7}
+{"prompt":"fire","completion":8}
+{"prompt":"faulting","completion":11}
+{"prompt":"contaminating condensate","completion":16}
+{"prompt":"too fast","completion":17}
+{"prompt":"low viscosity","completion":16}
+{"prompt":"not closing","completion":3}
+{"prompt":"require adjusting","completion":3}
+{"prompt":"sound","completion":5}
+{"prompt":"bent","completion":3}
+{"prompt":"corrosion on","completion":4}
+{"prompt":"doesnt operate","completion":0}
+{"prompt":"seized open","completion":0}
+{"prompt":"excessive stopstart","completion":18}
+{"prompt":"needs replaceing","completion":0}
+{"prompt":"hot thermography","completion":8}
+{"prompt":"erratic","completion":18}
+{"prompt":"false high level","completion":13}
+{"prompt":"will not shut","completion":9}
+{"prompt":"lagging","completion":10}
+{"prompt":"blew off","completion":3}
+{"prompt":"no fill","completion":3}
+{"prompt":"needs packing","completion":3}
+{"prompt":"wont pump","completion":0}
+{"prompt":"badly corrod","completion":4}
+{"prompt":"surging","completion":11}
+{"prompt":"false reading","completion":13}
+{"prompt":"not pumping enough to get","completion":1}
+{"prompt":"not draining","completion":1}
+{"prompt":"not wo","completion":0}
+{"prompt":"not charging","completion":11}
+{"prompt":"locked","completion":19}
+{"prompt":"not moving","completion":1}
+{"prompt":"milky","completion":16}
+{"prompt":"require tightening","completion":3}
+{"prompt":"siezed","completion":0}
+{"prompt":"no pressure","completion":1}
+{"prompt":"disconnected","completion":0}
+{"prompt":"coming adrift","completion":3}
+{"prompt":"ruptured","completion":4}
+{"prompt":"not pumpung","completion":1}
+{"prompt":"leakhose","completion":2}
+{"prompt":"cracked","completion":4}
+{"prompt":"broken loose","completion":0}
+{"prompt":"failing","completion":0}
+{"prompt":"looseworn","completion":3}
+{"prompt":"alarming eratically","completion":13}
+{"prompt":"are not operational","completion":0}
+{"prompt":"no static","completion":13}
+{"prompt":"siezed shut","completion":0}
+{"prompt":"running too slow","completion":10}
+{"prompt":"rusty","completion":4}
+{"prompt":"needs modifying","completion":3}
+{"prompt":"died","completion":0}
+{"prompt":"smoking","completion":8}
+{"prompt":"pulling very high","completion":17}
+{"prompt":"blowin","completion":3}
+{"prompt":"not stopping at","completion":12}
+{"prompt":"not operational","completion":0}
+{"prompt":"seizedbogged","completion":0}
+{"prompt":"usversicol","completion":0}
+{"prompt":"static","completion":11}
+{"prompt":"does not trip","completion":11}
+{"prompt":"needs alignment","completion":3}
+{"prompt":"contaimination","completion":16}
+{"prompt":"burst again","completion":0}
+{"prompt":"smoke","completion":8}
+{"prompt":"losing","completion":3}
+{"prompt":"no belt","completion":3}
+{"prompt":"needs tightened","completion":3}
+{"prompt":"not turning restriction","completion":1}
+{"prompt":"no signal","completion":13}
+{"prompt":"emulsified","completion":16}
+{"prompt":"alarming vibration","completion":7}
+{"prompt":"needs patched up","completion":3}
+{"prompt":"blew off top of","completion":3}
+{"prompt":"badly corroded in","completion":4}
+{"prompt":"perished","completion":0}
+{"prompt":"need calibration","completion":13}
+{"prompt":"jammed in place","completion":1}
+{"prompt":"collapsed","completion":0}
+{"prompt":"requires slotting","completion":3}
+{"prompt":"fault finding","completion":11}
+{"prompt":"reading inaccurate","completion":13}
+{"prompt":"sucked in","completion":14}
+{"prompt":"come loose","completion":3}
+{"prompt":"no phase","completion":11}
+{"prompt":"bore tripping","completion":11}
+{"prompt":"spill to ground","completion":11}
+{"prompt":"reading high","completion":13}
+{"prompt":"rusted away","completion":4}
+{"prompt":"needs a repack","completion":3}
+{"prompt":"fried","completion":0}
+{"prompt":"no speed control","completion":13}
+{"prompt":"seized breakdown","completion":0}
+{"prompt":"needs replacement","completion":0}
+{"prompt":"not workin","completion":0}
+{"prompt":"require investigating","completion":3}
+{"prompt":"passing when closed","completion":2}
+{"prompt":"not operating","completion":0}
+{"prompt":"crack","completion":4}
+{"prompt":"stopped pumping","completion":20}
+{"prompt":"not pumping issue","completion":1}
+{"prompt":"vibration","completion":7}
+{"prompt":"no flow","completion":1}
+{"prompt":"restricted","completion":10}
+{"prompt":"high vibration","completion":7}
+{"prompt":"unserviceable no contol","completion":0}
+{"prompt":"slippery","completion":3}
+{"prompt":"no seal","completion":3}
+{"prompt":"leak underflow","completion":2}
+{"prompt":"blockedseized","completion":1}
+{"prompt":"broken near","completion":0}
+{"prompt":"faulty earth","completion":11}
+{"prompt":"not maintaining","completion":1}
+{"prompt":"wont rotate","completion":6}
+{"prompt":"not efficient","completion":10}
+{"prompt":"will not start","completion":6}
+{"prompt":"contamination trip","completion":16}
+{"prompt":"not working on","completion":0}
+{"prompt":"blown out at","completion":3}
+{"prompt":"trips out","completion":11}
+{"prompt":"struggling","completion":10}
+{"prompt":"slow","completion":10}
+{"prompt":"keeps on tripping","completion":11}
+{"prompt":"reading stuck","completion":13}
+{"prompt":"not pumping","completion":1}
+{"prompt":"torn","completion":4}
+{"prompt":"cutting in and out","completion":18}
+{"prompt":"leakhole","completion":2}
+{"prompt":"come free of","completion":3}
+{"prompt":"contaminated","completion":16}
+{"prompt":"not pumpingeast","completion":1}
+{"prompt":"no oil movement","completion":1}
+{"prompt":"cold","completion":14}
+{"prompt":"problem","completion":14}
+{"prompt":"keeps tripping at start","completion":11}
+{"prompt":"severely corroded","completion":4}
+{"prompt":"needs repack","completion":3}
+{"prompt":"not secure","completion":3}
+{"prompt":"missing on","completion":3}
+{"prompt":"require changing","completion":3}
+{"prompt":"have smoked up","completion":8}
+{"prompt":"rusted of","completion":4}
+{"prompt":"relieving too early","completion":2}
+{"prompt":"missing blank","completion":3}
+{"prompt":"will not restart","completion":6}
+{"prompt":"needs repacking","completion":3}
+{"prompt":"high amp","completion":13}
+{"prompt":"weaping","completion":2}
+{"prompt":"burnt out","completion":8}
+{"prompt":"blowen","completion":3}
+{"prompt":"adrift","completion":3}
+{"prompt":"seizes at time","completion":0}
+{"prompt":"may burst","completion":4}
+{"prompt":"sparaying","completion":2}
+{"prompt":"tripping straight away","completion":11}
+{"prompt":"has a split in","completion":4}
+{"prompt":"corrodedstripped","completion":4}
+{"prompt":"buggered","completion":0}
+{"prompt":"seized","completion":0}
+{"prompt":"pot in backward","completion":3}
+{"prompt":"fault","completion":11}
+{"prompt":"will not pump","completion":0}
+{"prompt":"tripping in","completion":11}
+{"prompt":"requires replacing","completion":3}
+{"prompt":"continually tripping","completion":11}
+{"prompt":"no run indication","completion":13}
+{"prompt":"running hot","completion":8}
+{"prompt":"poor","completion":9}
+{"prompt":"keeps tripping out","completion":11}
+{"prompt":"playing up","completion":18}
+{"prompt":"not providing pressure","completion":1}
+{"prompt":"not starting","completion":6}
+{"prompt":"sheared off","completion":4}
+{"prompt":"not puming","completion":1}
+{"prompt":"corroding","completion":4}
+{"prompt":"spraying out of","completion":2}
+{"prompt":"badly corroded","completion":4}
+{"prompt":"requires clean","completion":3}
+{"prompt":"holedinspect","completion":4}
+{"prompt":"no earth","completion":11}
+{"prompt":"missingloose","completion":3}
+{"prompt":"siezing on","completion":0}
+{"prompt":"keeps kicking in","completion":12}
+{"prompt":"not efficiant","completion":10}
+{"prompt":"sheered","completion":4}
+{"prompt":"incorrect orientation","completion":3}
+{"prompt":"worn out","completion":4}
+{"prompt":"signal error","completion":13}
+{"prompt":"earth fault","completion":11}
+{"prompt":"unserviceable pump","completion":0}
+{"prompt":"not attached","completion":3}
+{"prompt":"leaked out","completion":2}
+{"prompt":"shorting out","completion":11}
+{"prompt":"tripping on overload","completion":11}
+{"prompt":"broken","completion":0}
+{"prompt":"heavy corrosion","completion":4}
+{"prompt":"unable to reach","completion":10}
+{"prompt":"wont open","completion":9}
+{"prompt":"lealing","completion":2}
+{"prompt":"needs another row","completion":3}
+{"prompt":"down to earth","completion":11}
+{"prompt":"very corroded","completion":4}
+{"prompt":"will not start after flushing","completion":6}
+{"prompt":"slurry spraying out","completion":2}
+{"prompt":"badly corr","completion":4}
+{"prompt":"covered","completion":3}
+{"prompt":"requires a descale","completion":3}
+{"prompt":"starting to crack","completion":4}
+{"prompt":"crack in transition","completion":4}
+{"prompt":"constantly losing","completion":2}
+{"prompt":"continually trips out","completion":11}
+{"prompt":"dirty","completion":3}
+{"prompt":"worn again","completion":4}
+{"prompt":"broke","completion":0}
+{"prompt":"needs to be flushed","completion":3}
+{"prompt":"rusted off","completion":4}
+{"prompt":"stopped working","completion":20}
+{"prompt":"stuck","completion":9}
+{"prompt":"appears loose","completion":3}
+{"prompt":"very high vibration","completion":7}
+{"prompt":"cannot start","completion":6}
+{"prompt":"not secured","completion":3}
+{"prompt":"holed","completion":4}
+{"prompt":"jammed closed","completion":1}
+{"prompt":"tripping cause","completion":11}
+{"prompt":"coroded","completion":4}
+{"prompt":"needs to be dismantled","completion":3}
+{"prompt":"missing off","completion":3}
+{"prompt":"knocking","completion":5}
+{"prompt":"slipping","completion":3}
+{"prompt":"tripping on","completion":11}
+{"prompt":"caught in suction","completion":3}
+{"prompt":"defect notice","completion":4}
+{"prompt":"will not stay running","completion":20}
+{"prompt":"come off","completion":3}
+{"prompt":"tripped out","completion":11}
+{"prompt":"not accurate","completion":13}
+{"prompt":"loose","completion":3}
+{"prompt":"has crack","completion":4}
+{"prompt":"congested","completion":1}
+{"prompt":"shows offline while running in field","completion":13}
+{"prompt":"showing signs of failure","completion":14}
+{"prompt":"passing","completion":2}
+{"prompt":"broken electrical","completion":0}
+{"prompt":"spraying out","completion":2}
+{"prompt":"needs freeing up","completion":1}
+{"prompt":"wont start","completion":6}
+{"prompt":"high earth resistance","completion":13}
+{"prompt":"pumping at high out put","completion":17}
+{"prompt":"pinholed","completion":3}
+{"prompt":"poor flow","completion":10}
+{"prompt":"slipped off","completion":3}
+{"prompt":"faulty","completion":11}
+{"prompt":"needs scope","completion":3}
+{"prompt":"colapsed","completion":0}
+{"prompt":"will not run","completion":0}
+{"prompt":"exposed","completion":3}
+{"prompt":"losing signal","completion":11}
+{"prompt":"misaligning","completion":3}
+{"prompt":"out of position","completion":3}
+{"prompt":"need replacing","completion":0}
+{"prompt":"not running in","completion":9}
+{"prompt":"has split","completion":4}
+{"prompt":"snapped off","completion":4}
+{"prompt":"noisyvibrating","completion":5}
+{"prompt":"filled","completion":2}
+{"prompt":"fail","completion":0}
+{"prompt":"fails to open in sequence","completion":21}
+{"prompt":"looseness","completion":3}
+{"prompt":"too high","completion":17}
+{"prompt":"blowing","completion":3}
+{"prompt":"running when empty","completion":14}
+{"prompt":"hot","completion":8}
+{"prompt":"fluctuates at high rate","completion":18}
+{"prompt":"not reading right","completion":13}
+{"prompt":"sitting on hot","completion":8}
+{"prompt":"not able to maintain level","completion":1}
+{"prompt":"dislodged","completion":3}
+{"prompt":"turning in reverse","completion":9}
+{"prompt":"no out put","completion":1}
+{"prompt":"leaky","completion":2}
+{"prompt":"tripping out on run up","completion":11}
+{"prompt":"need replaceing","completion":0}
+{"prompt":"not pump","completion":1}
+{"prompt":"will not run in","completion":0}
+{"prompt":"needs rebuild","completion":0}
+{"prompt":"leakingreplace","completion":2}
+{"prompt":"stopped abruptly","completion":20}
+{"prompt":"brittle","completion":4}
+{"prompt":"needs securing","completion":3}
+{"prompt":"dented","completion":4}
+{"prompt":"vibrationlaser","completion":7}
+{"prompt":"inconsistant flow","completion":1}
+{"prompt":"needs re build","completion":0}
+{"prompt":"unserviceable please replace","completion":0}
+{"prompt":"not connectedblanked","completion":3}
+{"prompt":"earthing","completion":11}
+{"prompt":"no indication","completion":3}
+{"prompt":"stripped","completion":4}
+{"prompt":"needs inspecting","completion":3}
+{"prompt":"snaped","completion":4}
+{"prompt":"didnt trip","completion":11}
+{"prompt":"blow out","completion":3}
+{"prompt":"unserviceable leak sulphur","completion":0}
+{"prompt":"tripping issue","completion":11}
+{"prompt":"unable to reset","completion":12}
+{"prompt":"need modifying","completion":3}
+{"prompt":"tripping out","completion":11}
+{"prompt":"requires topupstop","completion":3}
+{"prompt":"dragged","completion":3}
+{"prompt":"not performingpumping","completion":0}
+{"prompt":"getting jammed","completion":1}
+{"prompt":"failed restest","completion":6}
+{"prompt":"starting issue","completion":6}
+{"prompt":"wrong range","completion":13}
+{"prompt":"may be failing","completion":9}
+{"prompt":"stretched","completion":3}
+{"prompt":"does dont pump at","completion":1}
+{"prompt":"stuck in open position","completion":9}
+{"prompt":"seize","completion":0}
+{"prompt":"hole in","completion":4}
+{"prompt":"snappedplugged","completion":4}
+{"prompt":"consumeing","completion":2}
+{"prompt":"keeps vibrating shut","completion":7}
+{"prompt":"not able to pump","completion":1}
+{"prompt":"needs a descale","completion":3}
+{"prompt":"passing u","completion":2}
+{"prompt":"out of adjustment","completion":3}
+{"prompt":"failure","completion":0}
+{"prompt":"needs reset","completion":11}
+{"prompt":"rupture","completion":4}
+{"prompt":"vibrating","completion":7}
+{"prompt":"rubbing","completion":7}
+{"prompt":"leakingneed","completion":2}
+{"prompt":"playingup","completion":18}
+{"prompt":"broken into","completion":0}
+{"prompt":"doesnt pump to","completion":1}
+{"prompt":"corrosion","completion":4}
+{"prompt":"squealing","completion":5}
+{"prompt":"noyt pumping","completion":0}
+{"prompt":"fault tripping","completion":11}
+{"prompt":"needs to be repacked","completion":3}
+{"prompt":"will not turn","completion":9}
+{"prompt":"grinding","completion":5}
+{"prompt":"rusted","completion":4}
+{"prompt":"trips on overload","completion":11}
+{"prompt":"stopping","completion":20}
+{"prompt":"split in two place","completion":4}
+{"prompt":"hanging","completion":14}
+{"prompt":"needs fixing","completion":3}
+{"prompt":"detached","completion":3}
+{"prompt":"brokenmissing","completion":0}
+{"prompt":"need repacking","completion":3}
+{"prompt":"wont pump to","completion":0}
+{"prompt":"sce fault","completion":9}
+{"prompt":"wont run","completion":6}
+{"prompt":"requires modifying","completion":3}
+{"prompt":"requires replacement","completion":3}
+{"prompt":"triped","completion":11}
+{"prompt":"stopping randomly","completion":20}

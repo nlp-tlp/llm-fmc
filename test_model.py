@@ -11,6 +11,7 @@ test.head()
 # Replace with your model
 ft_model = "ada:ft-uwa-system-health-lab-2023-08-16-05-03-47"
 
+print(test["prompt"])
 print(test["prompt"][0])
 
 res = openai.Completion.create(

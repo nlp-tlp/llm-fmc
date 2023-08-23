@@ -1,67 +1,83 @@
+"""Code for preparing the data for openai.
+Provides detail to the user on the number of unique classes in their datasets,
+which is important as OpenAI won't allow you to fine tune when the train
+and dev sets have different numbers of unique classes.
+"""
 import os
 import pandas as pd
-import openai
-from sklearn.datasets import fetch_20newsgroups
-
-# categories = ["rec.sport.baseball", "rec.sport.hockey"]
-# print("xx")
-# sports_dataset = fetch_20newsgroups(
-#     subset="train", shuffle=True, random_state=42, categories=categories
-# )
-
-# print(sports_dataset["data"][0])
-
-# # Data prep
-
-# labels = [
-#     sports_dataset.target_names[x].split(".")[-1]
-#     for x in sports_dataset["target"]
-# ]
-# texts = [text.strip() for text in sports_dataset["data"]]
-# df = pd.DataFrame(
-#     zip(texts, labels), columns=["prompt", "completion"]
-# )  # [:300]
-# df.head()
-
-# print("hi")
-
-# df.to_json("sport2.jsonl", orient="records", lines=True)
 
 
-# Build the map of class -> id_class
-# Such as "leak" -> "1_leak"
-# (OpenAI requires the classes to each start with a unique token)
-class_map = {}
-for ds in ["train", "dev", "test"]:
-    unique_classes = set()
-    fn = os.path.join("input_data", "raw", f"{ds}.txt")
-    with open(fn, "r") as f:
-        data = [line.strip().split(",") for line in f.readlines()]
-    for text, label in data:
-        parsed_label = label.replace(" ", "_")
-        if label not in class_map:
-            class_map[label] = f"{len(class_map)}_{parsed_label}"
+def build_label_map():
+    """
+    Build the map of class -> id
+    Such as "leak" -> "1"
+    (OpenAI requires the classes to each start with a unique token)
 
-for ds in ["train", "dev", "test"]:
-    unique_classes = set()
-    fn = os.path.join("input_data", "raw", f"{ds}.txt")
-    with open(fn, "r") as f:
-        data = [line.strip().split(",") for line in f.readlines()]
-    for i, (text, label) in enumerate(data):
-        data[i][1] = class_map[label]
+    Returns:
+        dict: The label map, as above.
+    """
+    label_map = {}
+    unique_labels = {"train": set(), "dev": set(), "test": set()}
+    for ds in ["train", "dev", "test"]:
+        fn = os.path.join("input_data", "raw", f"{ds}.txt")
+        with open(fn, "r") as f:
+            data = [line.strip().split(",") for line in f.readlines()]
+        for text, label in data:
+            if label not in label_map:
+                label_id = len(label_map)
+                label_map[label] = label_id
+            unique_labels[ds].add(label)
 
-    df = pd.DataFrame(data, columns=["prompt", "completion"])
-    df.head()
-    df.to_json(
-        os.path.join("input_data", "intermediate", f"{ds}.jsonl"),
-        orient="records",
-        lines=True,
+    print(
+        f"There are {len(label_map.keys())} unique classes across the train, "
+        "dev and test sets."
     )
+    if unique_labels["train"] != unique_labels["dev"]:
+        print(
+            "Warning: some labels do not appear in both the train and dev set:"
+        )
+        print(unique_labels["train"].difference(unique_labels["dev"]))
 
-    print(f"There are {len(unique_classes)} unique classes in the {ds} set.")
+    # Write the label map to disk
     with open(
-        os.path.join("input_data", "intermediate", f"classes_{ds}.txt"), "w"
+        os.path.join("input_data", "intermediate", f"label_map.txt"),
+        "w",
     ) as f:
-        f.write("\n".join(sorted(list(unique_classes))))
+        for label in sorted(list(label_map), key=label_map.get):
+            label_id = label_map[label]
+            f.write(f"{label_id} {label}\n")
 
-print(class_map)
+    return label_map
+
+
+def prepare_data(label_map: dict):
+    """Iterate over each dataset (train, dev and test), converting
+    them into Pandas dataframes. Save them as a JSONL file where each
+    line is a prompt: completion pair.
+
+    Args:
+        label_map (dict): The mapping between labels and their ids.
+    """
+    for ds in ["train", "dev", "test"]:
+        fn = os.path.join("input_data", "raw", f"{ds}.txt")
+        with open(fn, "r") as f:
+            data = [line.strip().split(",") for line in f.readlines()]
+        for i, (text, label) in enumerate(data):
+            data[i][1] = label_map[label]
+
+        df = pd.DataFrame(data, columns=["prompt", "completion"])
+        df.head()
+        df.to_json(
+            os.path.join("input_data", "intermediate", f"{ds}.jsonl"),
+            orient="records",
+            lines=True,
+        )
+
+
+def main():
+    label_map = build_label_map()
+    prepare_data(label_map)
+
+
+if __name__ == "__main__":
+    main()
