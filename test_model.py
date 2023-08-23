@@ -4,6 +4,10 @@ import openai
 from sklearn.metrics import classification_report
 
 FT_MODEL = "ft:gpt-3.5-turbo-0613:uwa-system-health-lab::7qdnRrbA"
+# FT_MODEL = "gpt-3.5-turbo"
+
+# MODEL_NAME = "gpt-3.5-turbo"
+MODEL_NAME = "fine-tuned"
 
 
 def evaluate_model():
@@ -46,12 +50,14 @@ def evaluate_model():
                 model=FT_MODEL, messages=row_json["messages"], temperature=0
             )
 
+            pred = res["choices"][0]["message"]["content"]
+
+            test_output.append((test_data["inputs"][i], pred))
+
             # Append the predicted class to outputs_pred
-            test_data["outputs_pred"].append(
-                res["choices"][0]["message"]["content"]
-            )
-            if i % 5 == 0:
-                print(f"Processed {i} of {len(row_json['messages'])} rows")
+            test_data["outputs_pred"].append(pred)
+            if i > 0 and i % 5 == 0:
+                print(f"Processed {i} rows")
 
     report = classification_report(
         test_data["outputs_gold"], test_data["outputs_pred"]
@@ -59,8 +65,16 @@ def evaluate_model():
 
     print(report)
 
-    with open(os.path.join("output", "evaluation_output.txt"), "w") as f:
+    with open(
+        os.path.join("output", f"evaluation_output-{MODEL_NAME}.txt"), "w"
+    ) as f:
         f.write(report)
+
+    with open(
+        os.path.join("output", f"model_output-{MODEL_NAME}.txt"), "w"
+    ) as f:
+        for row in test_output:
+            f.write(f"{row[0]}, {row[1]}\n")
 
     # for row in test:
     #     print(row)

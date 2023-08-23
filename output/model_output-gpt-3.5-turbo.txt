@@ -1,0 +1,62 @@
+ejected, I apologize, but I'm unable to determine the failure mode based on the word "ejected" alone. Could you please provide more context or information?
+sticking shu, The failure mode of the sentence "sticking shu" is unclear. It does not provide enough information to determine a specific failure mode.
+not turning, Based on the given sentence "not turning," the failure mode could be a power failure or a mechanical failure.
+has failed, The failure mode of the sentence "has failed" is a breakdown.
+needs fitting, Insufficient information provided. Please provide more context or details about the sentence.
+runs for a while and trip, Based on the given sentence, the failure mode can be classified as an electrical failure. The phrase "runs for a while and trip" suggests that something is running, possibly an electrical device or system, but then it suddenly trips or shuts off. This could indicate a fault in the electrical circuit, such as a short circuit or overload, causing the system to trip and stop running.
+very stiff to operate, The failure mode of the sentence "very stiff to operate" is "mechanical failure".
+requires rebuild, The failure mode of the sentence "requires rebuild" is not clear. It could potentially indicate a failure mode related to maintenance or repair, but more context is needed to determine the specific failure mode.
+has no equipment earth, The failure mode of the sentence "has no equipment earth" is related to electrical failure. Specifically, it suggests that there is a lack of proper grounding or earthing for the equipment, which can lead to electrical malfunctions or safety hazards.
+require tighteninginspecti, The failure mode of the sentence "require tighteninginspecti" is a minor in-service problem.
+does not work, The failure mode of the sentence "does not work" is a lack of specificity. It does not provide any information about what exactly is not working.
+runs continuously, The failure mode of the sentence "runs continuously" is a failure to stop on demand.
+severe corrosion, The failure mode of "severe corrosion" is structural deficiency.
+contamination, Failure Mode: Environmental contamination
+doesnt trip, Based on the given sentence "doesnt trip," the failure mode can be classified as an electrical failure. This failure mode suggests that a device or circuit is not tripping or shutting off as it should, which could indicate a malfunction or fault in the electrical system.
+ripped, I apologize, but I am unable to determine the failure mode of a single word without any context. Could you please provide more information or a complete sentence?
+unserviceable not in, The failure mode of the sentence "unserviceable not in" is a breakdown. The sentence is incomplete and lacks proper structure or meaning. It seems to be missing additional information or context to make sense.
+cant be adjusted, The failure mode of the sentence "can't be adjusted" is a limitation or inability to make adjustments.
+worn, I apologize, but I need more context to determine the failure mode of the sentence "worn". Could you please provide more information or rephrase your query?
+misalignment, Misalignment typically refers to a condition where two or more components are not properly aligned, causing issues such as reduced efficiency, increased wear and tear, or even complete failure of the system. Therefore, the failure mode associated with misalignment would be "Mechanical Failure."
+switched o, It seems like the sentence you provided is incomplete. Could you please provide more context or complete the sentence?
+to be torqued, The failure mode of the sentence "to be torqued" is unclear. It could be referring to a process or action of applying torque to something, but without more context, it is difficult to determine a specific failure mode.
+sped up, The failure mode of the sentence "sped up" is not clear. It could refer to a failure mode related to increasing speed, such as overloading or overheating, but without more context, it is difficult to determine a specific failure mode.
+unable to pump, The failure mode of the sentence "unable to pump" is a failure in the pumping system.
+spillage, The failure mode of the sentence "spillage" is leaking.
+spraying out slurry, The failure mode of the sentence "spraying out slurry" is "leaking".
+jammed open, The failure mode of the sentence "jammed open" is a mechanical failure.
+no pump, The failure mode of the sentence "no pump" is a pump failure.
+not truning, The failure mode of the sentence "not truning" could be a misspelling or a typographical error.
+unable to tighten, The failure mode of the sentence "unable to tighten" can be classified as a minor in-service problem. This suggests that there is an issue with tightening something, such as a bolt or a screw, which is preventing it from being properly secured.
+burnt, The failure mode of the sentence "burnt" is overheating.
+hot joint, The failure mode of the sentence "hot joint" is overheating.
+burst, The failure mode of the sentence "burst" is not clear. Could you please provide more context or clarify your question?
+pumping fault, The failure mode of the sentence "pumping fault" is low output.
+not controlling, Insufficient information provided. Please provide more context or details about the sentence in order to determine the failure mode.
+surging cutting in and out, The failure mode of the sentence "surging cutting in and out" is related to electrical issues.
+failed electrical, The failure mode of the sentence "failed electrical" is not clear. It could refer to a variety of failure modes related to electrical systems or components. Some possible failure modes could include a short circuit, power outage, electrical component failure, or electrical system malfunction. More context is needed to determine the specific failure mode.
+loose tighten, The failure mode of the sentence "loose tighten" is a minor in-service problem. This could refer to a situation where something that should be tightened is loose, potentially causing issues or inefficiencies.
+high earth reading, The failure mode of the sentence "high earth reading" could be an abnormal instrument reading.
+cavitating, The failure mode of the sentence "cavitating" is not clear. Could you please provide more context or clarify your question?
+requires repack, The failure mode of the sentence "requires repack" is not clear. It could potentially indicate a maintenance issue or a need for packaging materials, but without more context, it is difficult to determine a specific failure mode.
+needs support, Insufficient information. Please provide more context or details about the sentence.
+needs maintenance, The failure mode of the sentence "needs maintenance" is "Minor in-service problems".
+not spinning, Based on the given sentence "not spinning," the failure mode can be classified as a minor in-service problem. This suggests that something is not functioning as expected or intended, but it does not indicate a major or catastrophic failure.
+dont activate, The failure mode of the sentence "dont activate" is a failure to start on demand.
+unserviceable b feluwa, The failure mode of the sentence "unserviceable b feluwa" is a breakdown in communication or understanding. The sentence appears to be a combination of random words or a typo, making it difficult to determine its intended meaning.
+no power, The failure mode of the sentence "no power" is related to an electrical issue.
+requires cleaning, The failure mode of the sentence "requires cleaning" is a minor in-service problem.
+doesnt work, The failure mode of the sentence "doesn't work" is a lack of specificity. It does not provide any information about what exactly is not working.
+vibrationlubealignment, The failure mode of the sentence "vibrationlubealignment" is Vibration.
+blockage, The failure mode of the sentence "blockage" is "plugged / choked".
+ongoing issue, I apologize, but I am unable to determine the failure mode of the sentence "ongoing issue" as it does not provide enough context or information. Could you please provide more details or rephrase your query?
+poorly supported, Insufficient information provided. Please provide more context or details about the sentence "poorly supported" in order to determine the failure mode.
+rocking around, The failure mode of the sentence "rocking around" is not clear. Could you please provide more context or clarify your question?
+siezeddescale, The failure mode of the sentence "siezeddescale" is a breakdown.
+dropped, Insufficient context. Please provide more information about the sentence.
+spraying, I apologize, but I am unable to determine the failure mode of the word "spraying" without more context. Could you please provide more information or clarify your question?
+not covered, Insufficient information. The sentence "not covered" does not provide enough context to determine a specific failure mode.
+hot jointfurn, The failure mode of the sentence "hot jointfurn" is unclear. It seems to be a combination of words that do not form a coherent sentence or phrase.
+running dry, The failure mode of the sentence "running dry" is not clear. It could refer to a variety of situations such as a vehicle running out of fuel, a water source running out of water, or a machine running out of a necessary resource. More context is needed to determine the specific failure mode.
+smoking up, I apologize, but I am unable to determine the failure mode of the sentence "smoking up" as it does not provide enough context. Could you please provide more information or rephrase your query?
+jammed, The failure mode of the sentence "jammed" is a mechanical failure.
