@@ -29,6 +29,8 @@ To fine-tune ChatGPT on the data:
 
     python finetune_model.py
 
-To test the model:
+To test the model, open `test_model.py` and change the `FT_MODEL` variable to the fine tuned model from the previous step. Then, run:
 
     python test_model.py
+
+A classification report will be printed and results will be saved into the `output` folder.
