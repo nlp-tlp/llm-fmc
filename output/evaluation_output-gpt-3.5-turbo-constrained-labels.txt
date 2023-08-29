@@ -1,24 +1,24 @@
                              precision    recall  f1-score   support
 
 Abnormal instrument reading       1.00      1.00      1.00         1
-                  Breakdown       1.00      0.14      0.25         7
-              Contamination       1.00      1.00      1.00         1
-                 Electrical       1.00      0.50      0.67         6
+                  Breakdown       0.00      0.00      0.00         7
+              Contamination       0.50      1.00      0.67         1
+                 Electrical       1.00      0.33      0.50         6
              Erratic output       0.00      0.00      0.00         1
-           Fail to function       0.08      0.67      0.15         3
- Failure to start on demand       1.00      1.00      1.00         1
+           Fail to function       0.33      0.33      0.33         3
+ Failure to start on demand       0.14      1.00      0.25         1
   Failure to stop on demand       0.50      1.00      0.67         1
-                High output       1.00      1.00      1.00         1
-                    Leaking       1.00      0.67      0.80         3
-                 Low output       1.00      1.00      1.00         2
-  Minor in-service problems       1.00      0.18      0.30        17
-                      Other       0.11      0.50      0.18         2
-                Overheating       1.00      0.25      0.40         4
-           Plugged / choked       1.00      0.33      0.50         6
-              Spurious stop       0.00      0.00      0.00         1
+                High output       0.00      0.00      0.00         1
+                    Leaking       1.00      1.00      1.00         3
+                 Low output       0.00      0.00      0.00         2
+  Minor in-service problems       1.00      0.06      0.11        17
+                      Other       0.07      0.50      0.12         2
+                Overheating       1.00      0.75      0.86         4
+           Plugged / choked       0.33      0.17      0.22         6
+              Spurious stop       0.17      1.00      0.29         1
       Structural deficiency       0.00      0.00      0.00         3
                   Vibration       1.00      0.50      0.67         2
 
-                  micro avg       0.42      0.37      0.39        62
-                  macro avg       0.71      0.54      0.53        62
-               weighted avg       0.84      0.37      0.43        62
+                  micro avg       0.35      0.29      0.32        62
+                  macro avg       0.45      0.48      0.37        62
+               weighted avg       0.60      0.29      0.29        62

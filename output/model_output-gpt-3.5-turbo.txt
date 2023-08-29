@@ -1,62 +1,62 @@
-ejected, No failure mode detected.
-sticking shu, I apologize, but I'm unable to determine the failure mode of the sentence "sticking shu" as it does not provide enough context or meaning. Could you please provide more information or rephrase the sentence?
-not turning, Noisy
-has failed, Syntax error
-needs fitting, No failure mode detected.
-runs for a while and trip, The failure mode of the sentence "runs for a while and trip" is an electrical failure.
-very stiff to operate, Difficult to use
-requires rebuild, No failure mode detected.
-has no equipment earth, Failure mode: Missing verb
-require tighteninginspecti, Minor in-service problems
-does not work, Failure mode: Lack of specificity
+ejected, Insufficient context
+sticking shu, Incomplete information
+not turning, Mechanical failure
+has failed, No failure mode detected.
+needs fitting, Ambiguity
+runs for a while and trip, The failure mode is "Electrical".
+very stiff to operate, Stiffness
+requires rebuild, Insufficient information
+has no equipment earth, No Failure Mode Detected
+require tighteninginspecti, Incomplete sentence
+does not work, Ambiguity
 runs continuously, Failure to stop on demand
-severe corrosion, Corrosion
-contamination, Failure mode: Unclear query
-doesnt trip, No Failure Mode Detected
-ripped, I apologize, but I'm unable to determine the failure mode based on the word "ripped" alone. Could you please provide more context or clarify your question?
-unserviceable not in, Syntax error
+severe corrosion, Severe corrosion
+contamination, Failure mode not recognized.
+doesnt trip, I'm sorry, I cannot determine the failure mode of the sentence "doesnt trip" as it is not clear what context or system it refers to. Could you please provide more information or rephrase your query?
+ripped, Ambiguity
+unserviceable not in, Ambiguity
 cant be adjusted, Ambiguous
-worn, I apologize, but I am unable to determine the failure mode based on the word "worn" alone. Could you please provide more context or clarify your query?
+worn, Insufficient context
 misalignment, Misalignment
-switched o, Spurious stop
+switched o, Incomplete sentence
 to be torqued, No failure mode detected.
-sped up, Ambiguous
-unable to pump, Low output
-spillage, Leaking
-spraying out slurry, Leaking
-jammed open, Jammed
-no pump, No Failure Mode Detected
-not truning, Typo
-unable to tighten, Loose connection
-burnt, I apologize, but I am unable to determine the failure mode based on the word "burnt" alone. Could you please provide more context or information?
-hot joint, Overheating
-burst, I apologize for the confusion, but it seems that the sentence "burst" does not provide enough context for me to determine a specific failure mode. Could you please provide more information or rephrase your query?
-pumping fault, Insufficient pressure
-not controlling, No failure mode detected
-surging cutting in and out, I apologize for the confusion. The failure mode of the sentence "surging cutting in and out" is not clear. Could you please provide more context or clarify the meaning of the sentence?
-failed electrical, Electrical
-loose tighten, Syntax error
-high earth reading, No failure mode detected.
-cavitating, No failure mode detected.
-requires repack, There is not enough context to determine a specific failure mode.
-needs support, No failure mode detected.
-needs maintenance, There is no failure mode in the given sentence.
-not spinning, No failure mode detected
+sped up, Ambiguity
+unable to pump, Mechanical failure
+spillage, Spillage
+spraying out slurry, Noisy
+jammed open, Mechanical failure
+no pump, No power
+not truning, Ignition failure
+unable to tighten, Loose or insecure fastening
+burnt, Burnt
+hot joint, Loose connection
+burst, I'm sorry, but I'm unable to determine the failure mode based on the word "burst" alone. Could you please provide more context or information?
+pumping fault, No output
+not controlling, Lack of proper control
+surging cutting in and out, Intermittent connection
+failed electrical, Failure mode: Electrical
+loose tighten, Ambiguous instruction
+high earth reading, Misinterpretation of data
+cavitating, Cavitation
+requires repack, Insufficient information provided
+needs support, Insufficient information
+needs maintenance, Insufficient information
+not spinning, Mechanical failure
 dont activate, Failure to activate
-unserviceable b feluwa, Syntax error
-no power, Power Failure
-requires cleaning, No failure mode detected.
-doesnt work, Syntax error
-vibrationlubealignment, Vibration
-blockage, Blockage
-ongoing issue, Other
+unserviceable b feluwa, I'm sorry, but I am unable to determine the failure mode of the given sentence.
+no power, Power
+requires cleaning, Insufficient information
+doesnt work, Ambiguity
+vibrationlubealignment, Lube
+blockage, Obstruction
+ongoing issue, Insufficient information
 poorly supported, Insufficient information
-rocking around, I'm sorry, but I am unable to determine the failure mode of the sentence "rocking around" as it does not provide enough context for classification.
-siezeddescale, Typographical error
-dropped, No failure mode detected.
-spraying, Noisy
-not covered, No failure mode detected.
-hot jointfurn, I apologize, but I am unable to determine the failure mode of the sentence "hot jointfurn" as it does not provide enough context or information. Could you please provide more details or rephrase your query?
-running dry, Insufficient information
-smoking up, I apologize, but I am unable to determine the failure mode of the sentence "smoking up" as it does not provide enough context. Could you please provide more information or rephrase your query?
-jammed, Jammed
+rocking around, Insufficient information
+siezeddescale, Misinterpretation
+dropped, Insufficient context
+spraying, Misfiring
+not covered, Ambiguity
+hot jointfurn, I'm sorry, but I am unable to determine the failure mode of the given sentence.
+running dry, Insufficient information provided.
+smoking up, Misinterpretation
+jammed, Mechanical failure

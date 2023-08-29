@@ -1,62 +1,62 @@
-ejected, Fail to function
-sticking shu, Fail to function
-not turning, Fail to function
-has failed, Fail to function
-needs fitting, Fail to function
-runs for a while and trip, Failure to stop on demand
+ejected, Other
+sticking shu, Fail to close
+not turning, Failure to rotate
+has failed, Spurious stop
+needs fitting, Other
+runs for a while and trip, Spurious stop
 very stiff to operate, Fail to function
-requires rebuild, Fail to function
-has no equipment earth, Electrical
-require tighteninginspecti, Fail to function
-does not work, Breakdown
+requires rebuild, Other
+has no equipment earth, Failure to start on demand
+require tighteninginspecti, Minor in-service problems
+does not work, Failure to start on demand
 runs continuously, Failure to stop on demand
-severe corrosion, Corrosion
+severe corrosion, Contamination
 contamination, Contamination
-doesnt trip, Failure to trip
+doesnt trip, Spurious stop
 ripped, Other
-unserviceable not in, Fail to function
+unserviceable not in, Other
 cant be adjusted, Fail to adjust
 worn, Other
-misalignment, Misalignment
-switched o, Fail to function
-to be torqued, Fail to function
-sped up, High output
-unable to pump, Low output
+misalignment, Structural deficiency
+switched o, Spurious stop
+to be torqued, Other
+sped up, Failure to stop on demand
+unable to pump, Failure to start on demand
 spillage, Leaking
 spraying out slurry, Leaking
 jammed open, Fail to close
-no pump, Fail to function
-not truning, Fail to function
-unable to tighten, Fail to tighten
-burnt, Other
+no pump, Failure to start on demand
+not truning, Failure to start on demand
+unable to tighten, Fail to function
+burnt, Overheating
 hot joint, Overheating
 burst, Other
-pumping fault, Low output
-not controlling, Fail to function
+pumping fault, Failure to start on demand
+not controlling, Failure to function
 surging cutting in and out, Erratic output
 failed electrical, Electrical
-loose tighten, Minor in-service problems
+loose tighten, Fail to function
 high earth reading, Abnormal instrument reading
-cavitating, Fail to function
-requires repack, Fail to function
-needs support, Fail to function
-needs maintenance, Minor in-service problems
+cavitating, Cavitating
+requires repack, Other
+needs support, Other
+needs maintenance, Other
 not spinning, Failure to rotate
 dont activate, Failure to start on demand
-unserviceable b feluwa, Other
+unserviceable b feluwa, Failure to function
 no power, Electrical
-requires cleaning, Fail to function
-doesnt work, Fail to function
+requires cleaning, Other
+doesnt work, Failure to function
 vibrationlubealignment, Vibration
 blockage, Plugged / choked
 ongoing issue, Other
-poorly supported, Minor in-service problems
+poorly supported, Structural deficiency
 rocking around, Other
-siezeddescale, Fail to function
-dropped, Fail to function
-spraying, Fail to function
+siezeddescale, Plugged / choked
+dropped, Spurious stop
+spraying, Leaking
 not covered, Other
-hot jointfurn, Other
-running dry, Fail to function
-smoking up, Fail to function
-jammed, Plugged / choked
+hot jointfurn, Overheating
+running dry, Plugged / choked
+smoking up, Spurious stop
+jammed, Jammed

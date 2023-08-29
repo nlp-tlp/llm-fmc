@@ -4,12 +4,12 @@ import openai
 import numpy as np
 from sklearn.metrics import classification_report
 
-FT_MODEL = "ft:gpt-3.5-turbo-0613:uwa-system-health-lab::7qdnRrbA"
-# FT_MODEL = "gpt-3.5-turbo"
+# FT_MODEL = "ft:gpt-3.5-turbo-0613:uwa-system-health-lab::7qdnRrbA"
+FT_MODEL = "gpt-3.5-turbo"
 
-EXPERIMENT_NAME = "fine-tuned"
+# EXPERIMENT_NAME = "fine-tuned"
 # EXPERIMENT_NAME = "gpt-3.5-turbo"
-# EXPERIMENT_NAME = "gpt-3.5-turbo-constrained-labels"
+EXPERIMENT_NAME = "gpt-3.5-turbo-constrained-labels"
 
 
 def evaluate_model():
@@ -42,7 +42,9 @@ def evaluate_model():
                 labels.add(outp)
     label_list = f" Valid failure modes are:\n" + "\n".join(labels)
 
-    constraint = "\n\nYour answer should contain only the failure mode and nothing else."
+    constraint = (
+        " Your answer should contain only the failure mode and nothing else."
+    )
 
     test_output = []
 
@@ -64,8 +66,8 @@ def evaluate_model():
             # of the prompt (so ChatGPT knows which labels are valid).
             #
             if EXPERIMENT_NAME == "gpt-3.5-turbo-constrained-labels":
-                row_json["messages"][1]["content"] = (
-                    row_json["messages"][1]["content"]
+                row_json["messages"][0]["content"] = (
+                    row_json["messages"][0]["content"]
                     + constraint
                     + label_list
                 )
@@ -73,8 +75,8 @@ def evaluate_model():
             # contain only the failure mode ...") to ensure it does not output
             # spurious details etc.
             elif EXPERIMENT_NAME == "gpt-3.5-turbo":
-                row_json["messages"][1]["content"] = (
-                    row_json["messages"][1]["content"] + constraint
+                row_json["messages"][0]["content"] = (
+                    row_json["messages"][0]["content"] + constraint
                 )
 
             if i == 0:

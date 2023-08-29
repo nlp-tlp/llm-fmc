@@ -59,7 +59,7 @@ As above, but with no fine tuning. We adjust the prompt to encourage the model t
 
     Your answer should contain only the failure mode and nothing else.
 
-### GPT-3.5-Constrained-Labels
+#### GPT-3.5-Constrained-Labels
 
 As above, but the prompt is further engineered to elicit a certain response from the model. We explicitly provide the list of labels that the model can select from. The prompt looks as follows:
 
