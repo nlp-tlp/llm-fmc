@@ -1,0 +1,62 @@
+ejected, The failure mode of the sentence "ejected" is "Minor in-service problems".
+sticking shu, The failure mode of the sentence "sticking shu" is "Fail to function".
+not turning, The failure mode of the sentence "not turning" is "Fail to rotate".
+has failed, The failure mode of the sentence "has failed" is Breakdown.
+needs fitting, The failure mode of the sentence "needs fitting" is "Minor in-service problems".
+runs for a while and trip, The failure mode of the sentence "runs for a while and trip" is Electrical.
+very stiff to operate, Fail to function
+requires rebuild, The failure mode of the sentence "requires rebuild" is "Minor in-service problems".
+has no equipment earth, The failure mode of the sentence "has no equipment earth" is Electrical.
+require tighteninginspecti, The failure mode of the sentence "require tighteninginspecti" is not clear. Please provide a valid sentence or query for me to determine the failure mode.
+does not work, Breakdown
+runs continuously, Failure to stop on demand
+severe corrosion, The failure mode of the sentence "severe corrosion" is "Structural deficiency".
+contamination, The failure mode of the sentence "contamination" is contamination.
+doesnt trip, The failure mode of the sentence "doesnt trip" is "Electrical".
+ripped, I apologize for the confusion. The sentence "ripped" does not provide enough context to determine a specific failure mode. Could you please provide more information or rephrase your query?
+unserviceable not in, The failure mode of the sentence "unserviceable not in" is breakdown.
+cant be adjusted, The failure mode of the sentence "cant be adjusted" is "Fail to function".
+worn, The failure mode of the sentence "worn" is "Structural deficiency".
+misalignment, I apologize for the confusion. The failure mode "misalignment" does not fall under the provided list of failure modes. Could you please provide more information or clarify the context of the failure mode?
+switched o, The failure mode of the sentence "switched o" is not clear. Could you please provide more context or clarify the sentence?
+to be torqued, The failure mode of the sentence "to be torqued" is "Minor in-service problems".
+sped up, The failure mode of the sentence "sped up" is high output.
+unable to pump, The failure mode of the sentence "unable to pump" is "Low output".
+spillage, The failure mode of the sentence "spillage" is leaking.
+spraying out slurry, The failure mode of the sentence "spraying out slurry" is leaking.
+jammed open, The failure mode of the sentence "jammed open" is "Fail to close".
+no pump, The failure mode of the sentence "no pump" is "Plugged / choked".
+not truning, The failure mode of the sentence "not truning" is "Fail to rotate".
+unable to tighten, The failure mode of the sentence "unable to tighten" is "Minor in-service problems".
+burnt, The failure mode of the sentence "burnt" is overheating.
+hot joint, The failure mode of the sentence "hot joint" is overheating.
+burst, Breakdown
+pumping fault, The failure mode of the sentence "pumping fault" is "Low output".
+not controlling, Minor in-service problems
+surging cutting in and out, The failure mode of the sentence "surging cutting in and out" is Electrical.
+failed electrical, The failure mode of the sentence "failed electrical" is Electrical.
+loose tighten, The failure mode of the sentence "loose tighten" is "Minor in-service problems".
+high earth reading, The failure mode of the sentence "high earth reading" is "Abnormal instrument reading".
+cavitating, The failure mode of the sentence "cavitating" is Erratic output.
+requires repack, The failure mode of the sentence "requires repack" is "Minor in-service problems".
+needs support, The failure mode of the sentence "needs support" is "Minor in-service problems".
+needs maintenance, Minor in-service problems
+not spinning, Failure to rotate
+dont activate, Failure to start on demand
+unserviceable b feluwa, The failure mode of the sentence "unserviceable b feluwa" is breakdown.
+no power, The failure mode of the sentence "no power" is Electrical.
+requires cleaning, Minor in-service problems
+doesnt work, The failure mode of the sentence "doesn't work" is Breakdown.
+vibrationlubealignment, Vibration
+blockage, The failure mode of the sentence "blockage" is "Plugged / choked".
+ongoing issue, The failure mode of the sentence "ongoing issue" cannot be determined as it does not provide enough information to classify it into a specific failure mode.
+poorly supported, The failure mode of the sentence "poorly supported" is "Minor in-service problems".
+rocking around, The failure mode of the sentence "rocking around" is Vibration.
+siezeddescale, The failure mode of the sentence "siezeddescale" is breakdown.
+dropped, The failure mode of the sentence "dropped" is "Minor in-service problems".
+spraying, The failure mode of the sentence "spraying" is "Leaking".
+not covered, The failure mode of the sentence "not covered" is "Minor in-service problems".
+hot jointfurn, The failure mode of the sentence "hot jointfurn" is overheating.
+running dry, The failure mode of the sentence "running dry" is "Other".
+smoking up, The failure mode of the sentence "smoking up" is overheating.
+jammed, The failure mode of the sentence "jammed" is "Plugged / choked".

@@ -34,3 +34,59 @@ To test the model, open `test_model.py` and change the `FT_MODEL` variable to th
     python test_model.py
 
 A classification report will be printed and results will be saved into the `output` folder.
+
+### Experiments
+
+#### Fine-tuned
+
+The GPT-3.5 model has been fine tuned on our dataset of 500 observation -> failure mode pairs. The prompt being fed into the model in `test_model.py` is:
+
+    Determine the failure mode of the following sentence:
+
+    smoking up
+
+The model will predict the exact failure mode:
+
+    Overheating
+
+#### GPT-3.5
+
+As above, but with no fine tuning. We adjust the prompt to encourage the model to only output the failure mode, and no other text (such as "The failure mode is ..."):
+
+    Determine the failure mode of the following sentence:
+
+    smoking up
+
+    Your answer should contain only the failure mode and nothing else.
+
+### GPT-3.5-Constrained-Labels
+
+As above, but the prompt is further engineered to elicit a certain response from the model. We explicitly provide the list of labels that the model can select from. The prompt looks as follows:
+
+    Determine the failure mode of the following sentence:
+
+    jammed
+
+    Your answer should contain only the failure mode and nothing else. Valid failure modes are:
+    Leaking
+    Structural deficiency
+    Other
+    Low output
+    Spurious stop
+    Contamination
+    Erratic output
+    Electrical
+    Failure to start on demand
+    Vibration
+    Fail to open
+    Fail to close
+    Noise
+    Plugged / choked
+    Overheating
+    Breakdown
+    Failure to stop on demand
+    Failure to rotate
+    High output
+    Abnormal instrument reading
+    Fail to function
+    Minor in-service problems

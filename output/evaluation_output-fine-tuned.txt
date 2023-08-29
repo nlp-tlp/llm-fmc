@@ -15,11 +15,10 @@ Abnormal instrument reading       0.00      0.00      0.00         1
                       Other       1.00      0.50      0.67         2
                 Overheating       1.00      1.00      1.00         4
            Plugged / choked       0.55      1.00      0.71         6
-                    Rocking       0.00      0.00      0.00         0
               Spurious stop       0.00      0.00      0.00         1
       Structural deficiency       0.75      1.00      0.86         3
                   Vibration       1.00      0.50      0.67         2
 
-                   accuracy                           0.77        62
-                  macro avg       0.54      0.57      0.53        62
+                  micro avg       0.79      0.77      0.78        62
+                  macro avg       0.57      0.60      0.56        62
                weighted avg       0.74      0.77      0.74        62

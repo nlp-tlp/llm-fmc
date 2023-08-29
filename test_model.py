@@ -1,13 +1,15 @@
 import os
 import json
 import openai
+import numpy as np
 from sklearn.metrics import classification_report
 
 FT_MODEL = "ft:gpt-3.5-turbo-0613:uwa-system-health-lab::7qdnRrbA"
 # FT_MODEL = "gpt-3.5-turbo"
 
-# MODEL_NAME = "gpt-3.5-turbo"
-MODEL_NAME = "fine-tuned"
+EXPERIMENT_NAME = "fine-tuned"
+# EXPERIMENT_NAME = "gpt-3.5-turbo"
+# EXPERIMENT_NAME = "gpt-3.5-turbo-constrained-labels"
 
 
 def evaluate_model():
@@ -22,12 +24,25 @@ def evaluate_model():
            dataset. This should not happen, and is just a sanity check to avoid
            invalid results.
     """
+
     test_data = {"inputs": [], "outputs_gold": [], "outputs_pred": []}
     with open(os.path.join("input_data", "raw", "test.txt"), "r") as f:
         for line in f.readlines():
             inp, outp = line.strip().split(",")
             test_data["inputs"].append(inp)
             test_data["outputs_gold"].append(outp)
+
+    # Build an engineered prompt to use in the 'constrained-labels' experiment.
+    # This one feeds the list of valid labels to OpenAI prior to classification.
+    labels = set()
+    for ds in ["train", "dev", "test"]:
+        with open(os.path.join("input_data", "raw", f"{ds}.txt"), "r") as f:
+            for line in f.readlines():
+                inp, outp = line.strip().split(",")
+                labels.add(outp)
+    label_list = f" Valid failure modes are:\n" + "\n".join(labels)
+
+    constraint = "\n\nYour answer should contain only the failure mode and nothing else."
 
     test_output = []
 
@@ -45,6 +60,30 @@ def evaluate_model():
                     f"Test data is not aligned on sentence with id {i}"
                 )
 
+            # For gpt-3.5-constrained-labels, append the list of labels at the end
+            # of the prompt (so ChatGPT knows which labels are valid).
+            #
+            if EXPERIMENT_NAME == "gpt-3.5-turbo-constrained-labels":
+                row_json["messages"][1]["content"] = (
+                    row_json["messages"][1]["content"]
+                    + constraint
+                    + label_list
+                )
+            # For regular gpt-3.5, just add the constraint ("Your answer should
+            # contain only the failure mode ...") to ensure it does not output
+            # spurious details etc.
+            elif EXPERIMENT_NAME == "gpt-3.5-turbo":
+                row_json["messages"][1]["content"] = (
+                    row_json["messages"][1]["content"] + constraint
+                )
+
+            if i == 0:
+                print("Example prompt: ")
+                print(row_json)
+
+            # print(row_json)
+            # exit()
+
             # Create a chat completion for each sentence
             res = openai.ChatCompletion.create(
                 model=FT_MODEL, messages=row_json["messages"], temperature=0
@@ -60,18 +99,20 @@ def evaluate_model():
                 print(f"Processed {i} rows")
 
     report = classification_report(
-        test_data["outputs_gold"], test_data["outputs_pred"]
+        test_data["outputs_gold"],
+        test_data["outputs_pred"],
+        labels=np.unique(test_data["outputs_gold"]),
     )
 
     print(report)
 
     with open(
-        os.path.join("output", f"evaluation_output-{MODEL_NAME}.txt"), "w"
+        os.path.join("output", f"evaluation_output-{EXPERIMENT_NAME}.txt"), "w"
     ) as f:
         f.write(report)
 
     with open(
-        os.path.join("output", f"model_output-{MODEL_NAME}.txt"), "w"
+        os.path.join("output", f"model_output-{EXPERIMENT_NAME}.txt"), "w"
     ) as f:
         for row in test_output:
             f.write(f"{row[0]}, {row[1]}\n")

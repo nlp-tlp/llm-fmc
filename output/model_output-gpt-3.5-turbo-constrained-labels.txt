@@ -1,0 +1,62 @@
+ejected, Fail to function
+sticking shu, Fail to function
+not turning, Fail to function
+has failed, Fail to function
+needs fitting, Fail to function
+runs for a while and trip, Failure to stop on demand
+very stiff to operate, Fail to function
+requires rebuild, Fail to function
+has no equipment earth, Electrical
+require tighteninginspecti, Fail to function
+does not work, Breakdown
+runs continuously, Failure to stop on demand
+severe corrosion, Corrosion
+contamination, Contamination
+doesnt trip, Failure to trip
+ripped, Other
+unserviceable not in, Fail to function
+cant be adjusted, Fail to adjust
+worn, Other
+misalignment, Misalignment
+switched o, Fail to function
+to be torqued, Fail to function
+sped up, High output
+unable to pump, Low output
+spillage, Leaking
+spraying out slurry, Leaking
+jammed open, Fail to close
+no pump, Fail to function
+not truning, Fail to function
+unable to tighten, Fail to tighten
+burnt, Other
+hot joint, Overheating
+burst, Other
+pumping fault, Low output
+not controlling, Fail to function
+surging cutting in and out, Erratic output
+failed electrical, Electrical
+loose tighten, Minor in-service problems
+high earth reading, Abnormal instrument reading
+cavitating, Fail to function
+requires repack, Fail to function
+needs support, Fail to function
+needs maintenance, Minor in-service problems
+not spinning, Failure to rotate
+dont activate, Failure to start on demand
+unserviceable b feluwa, Other
+no power, Electrical
+requires cleaning, Fail to function
+doesnt work, Fail to function
+vibrationlubealignment, Vibration
+blockage, Plugged / choked
+ongoing issue, Other
+poorly supported, Minor in-service problems
+rocking around, Other
+siezeddescale, Fail to function
+dropped, Fail to function
+spraying, Fail to function
+not covered, Other
+hot jointfurn, Other
+running dry, Fail to function
+smoking up, Fail to function
+jammed, Plugged / choked
