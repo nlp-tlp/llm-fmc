@@ -15,12 +15,12 @@ contamination, Contamination
 doesnt trip, Electrical
 ripped, Structural deficiency
 unserviceable not in, Breakdown
-cant be adjusted, Plugged / choked
+cant be adjusted, Breakdown
 worn, Structural deficiency
 misalignment, Minor in-service problems
 switched o, Electrical
 to be torqued, Minor in-service problems
-sped up, Abnormal instrument reading
+sped up, High output
 unable to pump, Plugged / choked
 spillage, Leaking
 spraying out slurry, Leaking
@@ -30,18 +30,18 @@ not truning, Plugged / choked
 unable to tighten, Minor in-service problems
 burnt, Overheating
 hot joint, Overheating
-burst, Structural deficiency
+burst, Breakdown
 pumping fault, Plugged / choked
-not controlling, Abnormal instrument reading
-surging cutting in and out, Electrical
-failed electrical, Electrical
+not controlling, Minor in-service problems
+surging cutting in and out, Erratic output
+failed electrical, Breakdown
 loose tighten, Minor in-service problems
 high earth reading, Electrical
-cavitating, Plugged / choked
+cavitating, Abnormal instrument reading
 requires repack, Minor in-service problems
 needs support, Minor in-service problems
 needs maintenance, Minor in-service problems
-not spinning, Plugged / choked
+not spinning, Minor in-service problems
 dont activate, Failure to start on demand
 unserviceable b feluwa, Breakdown
 no power, Electrical
@@ -49,14 +49,14 @@ requires cleaning, Minor in-service problems
 doesnt work, Breakdown
 vibrationlubealignment, Vibration
 blockage, Plugged / choked
-ongoing issue, Other
+ongoing issue, Breakdown
 poorly supported, Minor in-service problems
-rocking around, Rocking
+rocking around, Vibration
 siezeddescale, Breakdown
 dropped, Minor in-service problems
 spraying, Leaking
 not covered, Minor in-service problems
 hot jointfurn, Overheating
-running dry, Failure to start on demand
+running dry, Breakdown
 smoking up, Overheating
 jammed, Plugged / choked

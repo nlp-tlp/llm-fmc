@@ -48,8 +48,8 @@ def finetune_model():
 
     # Create the fine-tuning job
     ftj = openai.FineTuningJob.create(
-        training_file="file-ljLATcQWZ99bYEAwKmIsW6Or",
-        validation_file="file-83ZKhbwwT6AVUROUBNvb4LNH",
+        training_file=f_train["id"],
+        validation_file=f_dev["id"],
         model="gpt-3.5-turbo",
     )
 
@@ -110,8 +110,8 @@ def check_status(ftj_id):
 
 
 def main():
-    check_status("ftjob-stYCObzZF0jpR3ZtoCBs7hep")
-    # finetune_model()
+    # check_status("ftjob-stYCObzZF0jpR3ZtoCBs7hep")
+    finetune_model()
 
 
 if __name__ == "__main__":

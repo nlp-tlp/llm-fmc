@@ -1,24 +1,24 @@
                              precision    recall  f1-score   support
 
 Abnormal instrument reading       0.00      0.00      0.00         1
-                  Breakdown       0.75      0.86      0.80         7
+                  Breakdown       0.54      1.00      0.70         7
               Contamination       1.00      1.00      1.00         1
-                 Electrical       0.75      1.00      0.86         6
+                 Electrical       0.67      0.67      0.67         6
              Erratic output       0.00      0.00      0.00         1
            Fail to function       0.00      0.00      0.00         3
- Failure to start on demand       0.50      1.00      0.67         1
+ Failure to start on demand       1.00      1.00      1.00         1
   Failure to stop on demand       1.00      1.00      1.00         1
-                High output       0.00      0.00      0.00         1
+                High output       1.00      1.00      1.00         1
                     Leaking       1.00      1.00      1.00         3
                  Low output       0.00      0.00      0.00         2
-  Minor in-service problems       1.00      0.88      0.94        17
-                      Other       1.00      0.50      0.67         2
+  Minor in-service problems       1.00      1.00      1.00        17
+                      Other       0.00      0.00      0.00         2
                 Overheating       1.00      1.00      1.00         4
-           Plugged / choked       0.55      1.00      0.71         6
+           Plugged / choked       0.75      1.00      0.86         6
               Spurious stop       0.00      0.00      0.00         1
-      Structural deficiency       0.75      1.00      0.86         3
-                  Vibration       1.00      0.50      0.67         2
+      Structural deficiency       1.00      1.00      1.00         3
+                  Vibration       1.00      1.00      1.00         2
 
-                  micro avg       0.79      0.77      0.78        62
-                  macro avg       0.57      0.60      0.56        62
-               weighted avg       0.74      0.77      0.74        62
+                   accuracy                           0.81        62
+                  macro avg       0.61      0.65      0.62        62
+               weighted avg       0.73      0.81      0.76        62

@@ -57,6 +57,8 @@ As above, but with no fine tuning. We adjust the prompt to encourage the model t
 
     smoking up
 
+In the `system` role, we also add:
+
     Your answer should contain only the failure mode and nothing else.
 
 #### GPT-3.5-Constrained-Labels
@@ -66,6 +68,8 @@ As above, but the prompt is further engineered to elicit a certain response from
     Determine the failure mode of the following sentence:
 
     jammed
+
+In the `system` role, we also add:
 
     Your answer should contain only the failure mode and nothing else. Valid failure modes are:
     Leaking

@@ -1,0 +1,24 @@
+                             precision    recall  f1-score   support
+
+Abnormal instrument reading       0.00      0.00      0.00       1.0
+                  Breakdown       0.00      0.00      0.00       7.0
+              Contamination       0.00      0.00      0.00       1.0
+                 Electrical       0.00      0.00      0.00       6.0
+             Erratic output       0.00      0.00      0.00       1.0
+           Fail to function       0.00      0.00      0.00       3.0
+ Failure to start on demand       0.00      0.00      0.00       1.0
+  Failure to stop on demand       0.00      0.00      0.00       1.0
+                High output       0.00      0.00      0.00       1.0
+                    Leaking       0.00      0.00      0.00       3.0
+                 Low output       0.00      0.00      0.00       2.0
+  Minor in-service problems       0.00      0.00      0.00      17.0
+                      Other       0.00      0.00      0.00       2.0
+                Overheating       0.00      0.00      0.00       4.0
+           Plugged / choked       0.00      0.00      0.00       6.0
+              Spurious stop       0.00      0.00      0.00       1.0
+      Structural deficiency       0.00      0.00      0.00       3.0
+                  Vibration       0.00      0.00      0.00       2.0
+
+                  micro avg       0.00      0.00      0.00      62.0
+                  macro avg       0.00      0.00      0.00      62.0
+               weighted avg       0.00      0.00      0.00      62.0

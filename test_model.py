@@ -4,12 +4,13 @@ import openai
 import numpy as np
 from sklearn.metrics import classification_report
 
-# FT_MODEL = "ft:gpt-3.5-turbo-0613:uwa-system-health-lab::7qdnRrbA"
-FT_MODEL = "gpt-3.5-turbo"
+FT_MODEL = "ft:gpt-3.5-turbo-0613:uwa-system-health-lab::7ssbtFA4"
+# FT_MODEL = "gpt-3.5-turbo"
 
-# EXPERIMENT_NAME = "fine-tuned"
+EXPERIMENT_NAME = "fine-tuned"
 # EXPERIMENT_NAME = "gpt-3.5-turbo"
-EXPERIMENT_NAME = "gpt-3.5-turbo-constrained-labels"
+# EXPERIMENT_NAME = "gpt-3.5-turbo-constrained-labels"
+# EXPERIMENT_NAME = "gpt-3.5-turbo-no-filter"
 
 
 def evaluate_model():
@@ -54,10 +55,7 @@ def evaluate_model():
 
             # Sanity check to ensure the raw test data is still the same
             # as the prepared test data
-            if (
-                row_json["messages"][1]["content"].split("\n\n")[1]
-                != test_data["inputs"][i]
-            ):
+            if row_json["messages"][1]["content"] != test_data["inputs"][i]:
                 raise ValueError(
                     f"Test data is not aligned on sentence with id {i}"
                 )

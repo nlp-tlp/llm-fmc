@@ -12,7 +12,7 @@ MAX_ROWS = 10000
 
 # Message that is included with every prompt.
 SYSTEM_CONTENT = (
-    "You are a chatbot that classifies the user's query into a failure mode."
+    "Determine the failure mode of the observation provided by the user."
 )
 
 
@@ -37,8 +37,7 @@ def prepare_data():
             messages.append(
                 {
                     "role": "user",
-                    "content": "Determine the failure mode of "
-                    f"the following sentence:\n\n{text}",
+                    "content": f"{text}",
                 }
             )
             messages.append({"role": "assistant", "content": label})
