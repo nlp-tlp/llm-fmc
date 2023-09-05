@@ -4,10 +4,11 @@ import openai
 import numpy as np
 from sklearn.metrics import classification_report
 
-FT_MODEL = "ft:gpt-3.5-turbo-0613:uwa-system-health-lab::7ssbtFA4"
-# FT_MODEL = "gpt-3.5-turbo"
+# FT_MODEL = "ft:gpt-3.5-turbo-0613:uwa-system-health-lab::7ssbtFA4"
+FT_MODEL = "gpt-3.5-turbo"
 
-EXPERIMENT_NAME = "fine-tuned"
+# EXPERIMENT_NAME = "fine-tuned"
+EXPERIMENT_NAME = "gpt-3.5-turbo-few-shot"
 # EXPERIMENT_NAME = "gpt-3.5-turbo"
 # EXPERIMENT_NAME = "gpt-3.5-turbo-constrained-labels"
 # EXPERIMENT_NAME = "gpt-3.5-turbo-no-filter"
@@ -43,6 +44,22 @@ def evaluate_model():
                 labels.add(outp)
     label_list = f" Valid failure modes are:\n" + "\n".join(labels)
 
+    # Build the string to feed into the few-shot prompt
+    examples = {}
+    with open(os.path.join("input_data", "raw", "train.txt"), "r") as f:
+        for line in f.readlines():
+            inp, outp = line.strip().split(",")
+            if outp not in examples:
+                examples[outp] = inp
+    few_shot_prompt = (
+        " A list of valid failure modes, along with examples, is as follows:\n"
+    )
+    for obs, fm in examples.items():
+        few_shot_prompt += f"{fm}: {obs}\n"
+
+    # print(few_shot_prompt)
+    # exit()
+
     constraint = (
         " Your answer should contain only the failure mode and nothing else."
     )
@@ -68,6 +85,12 @@ def evaluate_model():
                     row_json["messages"][0]["content"]
                     + constraint
                     + label_list
+                )
+            elif EXPERIMENT_NAME == "gpt-3.5-turbo-few-shot":
+                row_json["messages"][0]["content"] = (
+                    row_json["messages"][0]["content"]
+                    + constraint
+                    + few_shot_prompt
                 )
             # For regular gpt-3.5, just add the constraint ("Your answer should
             # contain only the failure mode ...") to ensure it does not output

@@ -1,0 +1,62 @@
+ejected, Failure to stay in place
+sticking shu, Fail to function
+not turning, Failure to rotate
+has failed, Breakdown
+needs fitting, Failure to start on demand
+runs for a while and trip, Spurious stop
+very stiff to operate, Sticking
+requires rebuild, Breakdown
+has no equipment earth, Electrical
+require tighteninginspecti, Failure to start on demand
+does not work, Breakdown
+runs continuously, Failure to stop on demand
+severe corrosion, Structural deficiency
+contamination, Contamination
+doesnt trip, Failure to trip on demand
+ripped, Ripped
+unserviceable not in, Failure to start on demand
+cant be adjusted, Fail to adjust
+worn, Wear and tear
+misalignment, Misalignment
+switched o, Spurious stop
+to be torqued, Failure to start on demand
+sped up, High output
+unable to pump, Fail to function
+spillage, Leaking
+spraying out slurry, Leaking
+jammed open, Fail to close
+no pump, Failure to start on demand
+not truning, Failure to start on demand
+unable to tighten, Fail to tighten
+burnt, Overheating
+hot joint, Overheating
+burst, Breakdown
+pumping fault, Running fault
+not controlling, Failure to control
+surging cutting in and out, Surging
+failed electrical, Electrical
+loose tighten, Failure to tighten properly
+high earth reading, Abnormal instrument reading
+cavitating, Cavitation
+requires repack, Structural deficiency
+needs support, running fault
+needs maintenance, Other
+not spinning, Failure to rotate
+dont activate, Failure to start on demand
+unserviceable b feluwa, Breakdown
+no power, Electrical
+requires cleaning, Plugged / choked
+doesnt work, Failure to start on demand
+vibrationlubealignment, Misalignment
+blockage, Plugged / choked
+ongoing issue, Other
+poorly supported, Structural deficiency
+rocking around, Rocking around is not a valid failure mode. Please provide a valid failure mode from the list provided.
+siezeddescale, Structural deficiency
+dropped, Dropped
+spraying, Leaking
+not covered, not covered
+hot jointfurn, Overheating
+running dry, running dry
+smoking up, Smoking up
+jammed, Sticking
