@@ -1,6 +1,6 @@
-## ChatGPT-FMC
+## LLM-FMC
 
-Experiments in using ChatGPT to perform Failure Mode Classification.
+This is the code for the paper "Large Language Models for Failure Mode Classification: An Investigation".
 
 ### Commands
 
