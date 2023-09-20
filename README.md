@@ -17,7 +17,7 @@ Before running anything, run the poetry shell:
 
     poetry shell
 
-Then, run the script to prepare the data:
+Then, run the script to prepare the data (the data we used, from [here](https://paperswithcode.com/dataset/fmc-mwo2kg) is located in `input_data/raw`):
 
     python prepare_data.py
 
